@@ -1,0 +1,9822 @@
+[
+    {
+        "tokens": [
+            "I",
+            "was",
+            "here",
+            "a",
+            "few",
+            "weeks",
+            "back",
+            "and",
+            "we",
+            "had",
+            "the",
+            "worst",
+            "customer",
+            "service",
+            "experience",
+            "at",
+            "a",
+            "restaurant",
+            "ever"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "customer",
+            "service"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "Went",
+            "on",
+            "a",
+            "3",
+            "day",
+            "oyster",
+            "binge",
+            "with",
+            "Fish",
+            "bringing",
+            "up",
+            "the",
+            "closing",
+            "and",
+            "I",
+            "am",
+            "so",
+            "glad",
+            "this",
+            "was",
+            "the",
+            "place",
+            "it",
+            "O",
+            "trip",
+            "ended",
+            "because",
+            "it",
+            "was",
+            "so",
+            "great"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "place"
+        ],
+        "index": 21
+    },
+    {
+        "tokens": [
+            "Went",
+            "on",
+            "a",
+            "3",
+            "day",
+            "oyster",
+            "binge",
+            "with",
+            "Fish",
+            "bringing",
+            "up",
+            "the",
+            "closing",
+            "and",
+            "I",
+            "am",
+            "so",
+            "glad",
+            "this",
+            "was",
+            "the",
+            "place",
+            "it",
+            "O",
+            "trip",
+            "ended",
+            "because",
+            "it",
+            "was",
+            "so",
+            "great"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "oyster"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Went",
+            "on",
+            "a",
+            "3",
+            "day",
+            "oyster",
+            "binge",
+            "with",
+            "Fish",
+            "bringing",
+            "up",
+            "the",
+            "closing",
+            "and",
+            "I",
+            "am",
+            "so",
+            "glad",
+            "this",
+            "was",
+            "the",
+            "place",
+            "it",
+            "O",
+            "trip",
+            "ended",
+            "because",
+            "it",
+            "was",
+            "so",
+            "great"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Fish"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "Took",
+            "my",
+            "mom",
+            "for",
+            "Mother's",
+            "Day",
+            "and",
+            "the",
+            "maitre",
+            "d",
+            "was",
+            "pretty",
+            "rude"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "maitre",
+            "d'"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "My",
+            "husband",
+            "and",
+            "I",
+            "have",
+            "been",
+            "there",
+            "a",
+            "couple",
+            "of",
+            "times",
+            "and",
+            "each",
+            "time",
+            "we",
+            "sat",
+            "at",
+            "the",
+            "sushi",
+            "bar",
+            "chef",
+            "Yoshi",
+            "and",
+            "ordered",
+            "everything",
+            "ala",
+            "carte"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "sushi",
+            "bar"
+        ],
+        "index": 18
+    },
+    {
+        "tokens": [
+            "My",
+            "husband",
+            "and",
+            "I",
+            "have",
+            "been",
+            "there",
+            "a",
+            "couple",
+            "of",
+            "times",
+            "and",
+            "each",
+            "time",
+            "we",
+            "sat",
+            "at",
+            "the",
+            "sushi",
+            "bar",
+            "chef",
+            "Yoshi",
+            "and",
+            "ordered",
+            "everything",
+            "ala",
+            "carte"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "chef"
+        ],
+        "index": 20
+    },
+    {
+        "tokens": [
+            "My",
+            "husband",
+            "and",
+            "I",
+            "have",
+            "been",
+            "there",
+            "a",
+            "couple",
+            "of",
+            "times",
+            "and",
+            "each",
+            "time",
+            "we",
+            "sat",
+            "at",
+            "the",
+            "sushi",
+            "bar",
+            "chef",
+            "Yoshi",
+            "and",
+            "ordered",
+            "everything",
+            "ala",
+            "carte"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "ala",
+            "carte"
+        ],
+        "index": 25
+    },
+    {
+        "tokens": [
+            "The",
+            "vibe",
+            "is",
+            "very",
+            "relaxed",
+            "and",
+            "cozy",
+            "service",
+            "was",
+            "great",
+            "and",
+            "the",
+            "food",
+            "was",
+            "excellent"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "vibe"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "vibe",
+            "is",
+            "very",
+            "relaxed",
+            "and",
+            "cozy",
+            "service",
+            "was",
+            "great",
+            "and",
+            "the",
+            "food",
+            "was",
+            "excellent"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "vibe",
+            "is",
+            "very",
+            "relaxed",
+            "and",
+            "cozy",
+            "service",
+            "was",
+            "great",
+            "and",
+            "the",
+            "food",
+            "was",
+            "excellent"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "If",
+            "the",
+            "weather",
+            "is",
+            "nice",
+            "try",
+            "to",
+            "snag",
+            "an",
+            "outside",
+            "table"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "table"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "If",
+            "you",
+            "are",
+            "looking",
+            "for",
+            "a",
+            "good",
+            "quality",
+            "cheap",
+            "eats",
+            "this",
+            "is",
+            "the",
+            "place"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "quality"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "friendly",
+            "and",
+            "the",
+            "atmosphere",
+            "was",
+            "casual"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "friendly",
+            "and",
+            "the",
+            "atmosphere",
+            "was",
+            "casual"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "atmosphere"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "When",
+            "I",
+            "lived",
+            "upstate",
+            "for",
+            "a",
+            "while",
+            "I",
+            "would",
+            "buy",
+            "freeze",
+            "the",
+            "bagels",
+            "and",
+            "they",
+            "would",
+            "still",
+            "be",
+            "better",
+            "than",
+            "any",
+            "else"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "bagels"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "I",
+            "recommend",
+            "their",
+            "Pad",
+            "See",
+            "Ew",
+            "Pork",
+            "Chops",
+            "or",
+            "Tofu",
+            "plates"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Pad",
+            "See",
+            "Ew"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "I",
+            "recommend",
+            "their",
+            "Pad",
+            "See",
+            "Ew",
+            "Pork",
+            "Chops",
+            "or",
+            "Tofu",
+            "plates"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Pork",
+            "Chops"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "I",
+            "recommend",
+            "their",
+            "Pad",
+            "See",
+            "Ew",
+            "Pork",
+            "Chops",
+            "or",
+            "Tofu",
+            "plates"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Tofu",
+            "plates"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "Never",
+            "in",
+            "my",
+            "life",
+            "did",
+            "I",
+            "think",
+            "that",
+            "I",
+            "could",
+            "be",
+            "satisfied",
+            "both",
+            "in",
+            "taste",
+            "and",
+            "in",
+            "quantity",
+            "for",
+            "3.00",
+            "in",
+            "NYC"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "taste"
+        ],
+        "index": 14
+    },
+    {
+        "tokens": [
+            "Never",
+            "in",
+            "my",
+            "life",
+            "did",
+            "I",
+            "think",
+            "that",
+            "I",
+            "could",
+            "be",
+            "satisfied",
+            "both",
+            "in",
+            "taste",
+            "and",
+            "in",
+            "quantity",
+            "for",
+            "3.00",
+            "in",
+            "NYC"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "quantity"
+        ],
+        "index": 17
+    },
+    {
+        "tokens": [
+            "this",
+            "is",
+            "the",
+            "best",
+            "secret",
+            "place",
+            "in",
+            "midtown",
+            "I",
+            "heard",
+            "that",
+            "from",
+            "the",
+            "bartender",
+            "after",
+            "having",
+            "brilliant",
+            "food",
+            "try",
+            "steak",
+            "with",
+            "portobello",
+            "mushrooms",
+            "and",
+            "drinks",
+            "on",
+            "the",
+            "bar",
+            "last",
+            "Tuesday"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "bartender"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "this",
+            "is",
+            "the",
+            "best",
+            "secret",
+            "place",
+            "in",
+            "midtown",
+            "I",
+            "heard",
+            "that",
+            "from",
+            "the",
+            "bartender",
+            "after",
+            "having",
+            "brilliant",
+            "food",
+            "try",
+            "steak",
+            "with",
+            "portobello",
+            "mushrooms",
+            "and",
+            "drinks",
+            "on",
+            "the",
+            "bar",
+            "last",
+            "Tuesday"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 17
+    },
+    {
+        "tokens": [
+            "this",
+            "is",
+            "the",
+            "best",
+            "secret",
+            "place",
+            "in",
+            "midtown",
+            "I",
+            "heard",
+            "that",
+            "from",
+            "the",
+            "bartender",
+            "after",
+            "having",
+            "brilliant",
+            "food",
+            "try",
+            "steak",
+            "with",
+            "portobello",
+            "mushrooms",
+            "and",
+            "drinks",
+            "on",
+            "the",
+            "bar",
+            "last",
+            "Tuesday"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "drinks"
+        ],
+        "index": 24
+    },
+    {
+        "tokens": [
+            "this",
+            "is",
+            "the",
+            "best",
+            "secret",
+            "place",
+            "in",
+            "midtown",
+            "I",
+            "heard",
+            "that",
+            "from",
+            "the",
+            "bartender",
+            "after",
+            "having",
+            "brilliant",
+            "food",
+            "try",
+            "steak",
+            "with",
+            "portobello",
+            "mushrooms",
+            "and",
+            "drinks",
+            "on",
+            "the",
+            "bar",
+            "last",
+            "Tuesday"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "steak",
+            "with",
+            "portobello",
+            "mushrooms"
+        ],
+        "index": 19
+    },
+    {
+        "tokens": [
+            "this",
+            "is",
+            "the",
+            "best",
+            "secret",
+            "place",
+            "in",
+            "midtown",
+            "I",
+            "heard",
+            "that",
+            "from",
+            "the",
+            "bartender",
+            "after",
+            "having",
+            "brilliant",
+            "food",
+            "try",
+            "steak",
+            "with",
+            "portobello",
+            "mushrooms",
+            "and",
+            "drinks",
+            "on",
+            "the",
+            "bar",
+            "last",
+            "Tuesday"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "bar"
+        ],
+        "index": 27
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "excellent",
+            "friendly",
+            "and",
+            "attentive"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "main",
+            "course",
+            "had",
+            "an",
+            "average",
+            "portion",
+            "and",
+            "was",
+            "decent",
+            "overall"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "main",
+            "course"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "main",
+            "course",
+            "had",
+            "an",
+            "average",
+            "portion",
+            "and",
+            "was",
+            "decent",
+            "overall"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "portion"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "20",
+            "minutes",
+            "for",
+            "our",
+            "reservation",
+            "but",
+            "it",
+            "gave",
+            "us",
+            "time",
+            "to",
+            "have",
+            "a",
+            "few",
+            "cocktails",
+            "and",
+            "enjoy",
+            "our",
+            "surroundings",
+            "and",
+            "each",
+            "other"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "reservation"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "20",
+            "minutes",
+            "for",
+            "our",
+            "reservation",
+            "but",
+            "it",
+            "gave",
+            "us",
+            "time",
+            "to",
+            "have",
+            "a",
+            "few",
+            "cocktails",
+            "and",
+            "enjoy",
+            "our",
+            "surroundings",
+            "and",
+            "each",
+            "other"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "cocktails"
+        ],
+        "index": 14
+    },
+    {
+        "tokens": [
+            "20",
+            "minutes",
+            "for",
+            "our",
+            "reservation",
+            "but",
+            "it",
+            "gave",
+            "us",
+            "time",
+            "to",
+            "have",
+            "a",
+            "few",
+            "cocktails",
+            "and",
+            "enjoy",
+            "our",
+            "surroundings",
+            "and",
+            "each",
+            "other"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "surroundings"
+        ],
+        "index": 18
+    },
+    {
+        "tokens": [
+            "Waitstaff",
+            "is",
+            "great",
+            "very",
+            "attentive"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Waitstaff"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "The",
+            "dinner",
+            "menu",
+            "is",
+            "diverse",
+            "and",
+            "top-notch",
+            "as",
+            "well"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "dinner",
+            "menu"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "IT",
+            "IS",
+            "WHAT",
+            "MODERN",
+            "CUISINE",
+            "IS",
+            "ALL",
+            "ABOUT"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "CUISINE"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "I",
+            "don't",
+            "like",
+            "Indian",
+            "food",
+            "too",
+            "much",
+            "and",
+            "this",
+            "was",
+            "delicious",
+            "however",
+            "you",
+            "want",
+            "to",
+            "factor",
+            "that",
+            "into",
+            "the",
+            "equation"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Indian",
+            "food"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "at",
+            "taj",
+            "vegetarians",
+            "can",
+            "rejoice-all",
+            "the",
+            "dishes",
+            "are",
+            "manna",
+            "from",
+            "heaven"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "dishes"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Forget",
+            "the",
+            "rush",
+            "and",
+            "the",
+            "wait",
+            "and",
+            "the",
+            "noise",
+            "which",
+            "isn't",
+            "actually",
+            "that",
+            "bad",
+            "I",
+            "mean",
+            "please",
+            "who",
+            "goes",
+            "to",
+            "a",
+            "steakhouse",
+            "to",
+            "be",
+            "coddled",
+            "and",
+            "romantic"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "wait"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Forget",
+            "the",
+            "rush",
+            "and",
+            "the",
+            "wait",
+            "and",
+            "the",
+            "noise",
+            "which",
+            "isn't",
+            "actually",
+            "that",
+            "bad",
+            "I",
+            "mean",
+            "please",
+            "who",
+            "goes",
+            "to",
+            "a",
+            "steakhouse",
+            "to",
+            "be",
+            "coddled",
+            "and",
+            "romantic"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "noise"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "Forget",
+            "the",
+            "rush",
+            "and",
+            "the",
+            "wait",
+            "and",
+            "the",
+            "noise",
+            "which",
+            "isn't",
+            "actually",
+            "that",
+            "bad",
+            "I",
+            "mean",
+            "please",
+            "who",
+            "goes",
+            "to",
+            "a",
+            "steakhouse",
+            "to",
+            "be",
+            "coddled",
+            "and",
+            "romantic"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "rush"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "I",
+            "won't",
+            "go",
+            "back",
+            "unless",
+            "someone",
+            "else",
+            "is",
+            "footing",
+            "the",
+            "bill"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "bill"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "We",
+            "live",
+            "in",
+            "New",
+            "Jersey",
+            "and",
+            "whenever",
+            "we",
+            "go",
+            "into",
+            "New",
+            "York",
+            "City",
+            "we",
+            "buy",
+            "bagels",
+            "to",
+            "eat",
+            "hot",
+            "and",
+            "then",
+            "to",
+            "freeze",
+            "they",
+            "told",
+            "me",
+            "that",
+            "if",
+            "I",
+            "call",
+            "in",
+            "the",
+            "order",
+            "they'd",
+            "bring",
+            "it",
+            "out",
+            "to",
+            "the",
+            "car",
+            "so",
+            "I",
+            "wouldn't",
+            "have",
+            "to",
+            "look",
+            "for",
+            "parking"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "bagels"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "Jimmy's",
+            "is",
+            "hands",
+            "down",
+            "the",
+            "hottest",
+            "night",
+            "spot",
+            "in",
+            "the",
+            "Bronx"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "spot"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "And",
+            "I",
+            "would",
+            "have",
+            "to",
+            "agree",
+            "with",
+            "the",
+            "masses",
+            "in",
+            "terms",
+            "of",
+            "service",
+            "delivery",
+            "is",
+            "their",
+            "Achilles",
+            "heel"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "And",
+            "I",
+            "would",
+            "have",
+            "to",
+            "agree",
+            "with",
+            "the",
+            "masses",
+            "in",
+            "terms",
+            "of",
+            "service",
+            "delivery",
+            "is",
+            "their",
+            "Achilles",
+            "heel"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "delivery"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "The",
+            "300",
+            "bill",
+            "was",
+            "a",
+            "bit",
+            "steep",
+            "but",
+            "the",
+            "experience",
+            "was",
+            "great"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "bill"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "Nice",
+            "ambiance",
+            "nice",
+            "little",
+            "bar",
+            "good",
+            "bartender",
+            "Francois",
+            "and",
+            "good",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "bar"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "Nice",
+            "ambiance",
+            "nice",
+            "little",
+            "bar",
+            "good",
+            "bartender",
+            "Francois",
+            "and",
+            "good",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "bartender"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Nice",
+            "ambiance",
+            "nice",
+            "little",
+            "bar",
+            "good",
+            "bartender",
+            "Francois",
+            "and",
+            "good",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "Nice",
+            "ambiance",
+            "nice",
+            "little",
+            "bar",
+            "good",
+            "bartender",
+            "Francois",
+            "and",
+            "good",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "ambiance"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "calamari",
+            "comes",
+            "with",
+            "an",
+            "incredible",
+            "sauce",
+            "and",
+            "the",
+            "duck",
+            "noodles",
+            "are",
+            "yummy",
+            "as",
+            "well"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "calamari"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "calamari",
+            "comes",
+            "with",
+            "an",
+            "incredible",
+            "sauce",
+            "and",
+            "the",
+            "duck",
+            "noodles",
+            "are",
+            "yummy",
+            "as",
+            "well"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "sauce"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "The",
+            "calamari",
+            "comes",
+            "with",
+            "an",
+            "incredible",
+            "sauce",
+            "and",
+            "the",
+            "duck",
+            "noodles",
+            "are",
+            "yummy",
+            "as",
+            "well"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "duck",
+            "noodles"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "I",
+            "would",
+            "definitely",
+            "go",
+            "back",
+            "if",
+            "only",
+            "for",
+            "some",
+            "of",
+            "those",
+            "exotic",
+            "martinis",
+            "on",
+            "the",
+            "blackboard"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "martinis"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "Simple",
+            "comfort",
+            "food",
+            "and",
+            "what",
+            "hot",
+            "and",
+            "lage",
+            "portions"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "comfort",
+            "food"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Simple",
+            "comfort",
+            "food",
+            "and",
+            "what",
+            "hot",
+            "and",
+            "lage",
+            "portions"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "portions"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "Stay",
+            "away",
+            "from",
+            "the",
+            "two",
+            "specialty",
+            "rolls",
+            "on",
+            "the",
+            "menu",
+            "though",
+            "too",
+            "much",
+            "avocado",
+            "and",
+            "rice",
+            "will",
+            "fill",
+            "you",
+            "up",
+            "right",
+            "quick"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "rolls"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Stay",
+            "away",
+            "from",
+            "the",
+            "two",
+            "specialty",
+            "rolls",
+            "on",
+            "the",
+            "menu",
+            "though",
+            "too",
+            "much",
+            "avocado",
+            "and",
+            "rice",
+            "will",
+            "fill",
+            "you",
+            "up",
+            "right",
+            "quick"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "menu"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "Stay",
+            "away",
+            "from",
+            "the",
+            "two",
+            "specialty",
+            "rolls",
+            "on",
+            "the",
+            "menu",
+            "though",
+            "too",
+            "much",
+            "avocado",
+            "and",
+            "rice",
+            "will",
+            "fill",
+            "you",
+            "up",
+            "right",
+            "quick"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "avocado"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "Stay",
+            "away",
+            "from",
+            "the",
+            "two",
+            "specialty",
+            "rolls",
+            "on",
+            "the",
+            "menu",
+            "though",
+            "too",
+            "much",
+            "avocado",
+            "and",
+            "rice",
+            "will",
+            "fill",
+            "you",
+            "up",
+            "right",
+            "quick"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "rice"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "We",
+            "didn't",
+            "get",
+            "drink",
+            "refills",
+            "and",
+            "she",
+            "didn't",
+            "even",
+            "offer",
+            "us",
+            "the",
+            "option",
+            "of",
+            "dessert"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "drink",
+            "refills"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "We",
+            "didn't",
+            "get",
+            "drink",
+            "refills",
+            "and",
+            "she",
+            "didn't",
+            "even",
+            "offer",
+            "us",
+            "the",
+            "option",
+            "of",
+            "dessert"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dessert"
+        ],
+        "index": 14
+    },
+    {
+        "tokens": [
+            "The",
+            "bagels",
+            "are",
+            "also",
+            "reasonably",
+            "priced",
+            "for",
+            "NYC"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "bagels"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "bagels",
+            "are",
+            "also",
+            "reasonably",
+            "priced",
+            "for",
+            "NYC"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "priced"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "If",
+            "you",
+            "can",
+            "handle",
+            "that",
+            "it's",
+            "a",
+            "great",
+            "place",
+            "for",
+            "a",
+            "business",
+            "dinner",
+            "fun",
+            "with",
+            "friends",
+            "or",
+            "simply",
+            "a",
+            "table",
+            "for",
+            "2"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "business",
+            "dinner"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "If",
+            "you",
+            "can",
+            "handle",
+            "that",
+            "it's",
+            "a",
+            "great",
+            "place",
+            "for",
+            "a",
+            "business",
+            "dinner",
+            "fun",
+            "with",
+            "friends",
+            "or",
+            "simply",
+            "a",
+            "table",
+            "for",
+            "2"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "table"
+        ],
+        "index": 19
+    },
+    {
+        "tokens": [
+            "Decor",
+            "leaves",
+            "something",
+            "to",
+            "be",
+            "desired"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "Decor"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Also",
+            "specify",
+            "if",
+            "you",
+            "like",
+            "your",
+            "food",
+            "spicy",
+            "its",
+            "rather",
+            "bland",
+            "if",
+            "you",
+            "don't"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Our",
+            "waiter",
+            "was",
+            "fine",
+            "the",
+            "place",
+            "looks",
+            "nice",
+            "in",
+            "that",
+            "not-trying-too-hard",
+            "way",
+            "but",
+            "at",
+            "those",
+            "prices",
+            "a",
+            "little",
+            "more",
+            "should",
+            "be",
+            "expected",
+            "of",
+            "your",
+            "food"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "waiter"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Our",
+            "waiter",
+            "was",
+            "fine",
+            "the",
+            "place",
+            "looks",
+            "nice",
+            "in",
+            "that",
+            "not-trying-too-hard",
+            "way",
+            "but",
+            "at",
+            "those",
+            "prices",
+            "a",
+            "little",
+            "more",
+            "should",
+            "be",
+            "expected",
+            "of",
+            "your",
+            "food"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "place"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Our",
+            "waiter",
+            "was",
+            "fine",
+            "the",
+            "place",
+            "looks",
+            "nice",
+            "in",
+            "that",
+            "not-trying-too-hard",
+            "way",
+            "but",
+            "at",
+            "those",
+            "prices",
+            "a",
+            "little",
+            "more",
+            "should",
+            "be",
+            "expected",
+            "of",
+            "your",
+            "food"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "prices"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "Our",
+            "waiter",
+            "was",
+            "fine",
+            "the",
+            "place",
+            "looks",
+            "nice",
+            "in",
+            "that",
+            "not-trying-too-hard",
+            "way",
+            "but",
+            "at",
+            "those",
+            "prices",
+            "a",
+            "little",
+            "more",
+            "should",
+            "be",
+            "expected",
+            "of",
+            "your",
+            "food"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 24
+    },
+    {
+        "tokens": [
+            "Coming",
+            "from",
+            "Boston",
+            "this",
+            "place",
+            "is",
+            "like",
+            "Emma's",
+            "Pizza",
+            "in",
+            "Kendall",
+            "Square",
+            "in",
+            "Cambridge",
+            "although",
+            "they",
+            "have",
+            "more",
+            "funky",
+            "toppings"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "toppings"
+        ],
+        "index": 19
+    },
+    {
+        "tokens": [
+            "When",
+            "my",
+            "husband",
+            "and",
+            "go",
+            "there",
+            "we",
+            "spend",
+            "60.00",
+            "have",
+            "LOBSTER",
+            "TAILS",
+            "UMMMMM",
+            "need",
+            "I",
+            "say",
+            "more",
+            "I",
+            "can't",
+            "say",
+            "any",
+            "more",
+            "it",
+            "a",
+            "place",
+            "you'll",
+            "never",
+            "forget",
+            "If",
+            "you",
+            "never",
+            "go",
+            "you'll",
+            "miss",
+            "A",
+            "Meal",
+            "of",
+            "your",
+            "life",
+            "time"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "place"
+        ],
+        "index": 24
+    },
+    {
+        "tokens": [
+            "When",
+            "my",
+            "husband",
+            "and",
+            "go",
+            "there",
+            "we",
+            "spend",
+            "60.00",
+            "have",
+            "LOBSTER",
+            "TAILS",
+            "UMMMMM",
+            "need",
+            "I",
+            "say",
+            "more",
+            "I",
+            "can't",
+            "say",
+            "any",
+            "more",
+            "it",
+            "a",
+            "place",
+            "you'll",
+            "never",
+            "forget",
+            "If",
+            "you",
+            "never",
+            "go",
+            "you'll",
+            "miss",
+            "A",
+            "Meal",
+            "of",
+            "your",
+            "life",
+            "time"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Meal"
+        ],
+        "index": 35
+    },
+    {
+        "tokens": [
+            "When",
+            "my",
+            "husband",
+            "and",
+            "go",
+            "there",
+            "we",
+            "spend",
+            "60.00",
+            "have",
+            "LOBSTER",
+            "TAILS",
+            "UMMMMM",
+            "need",
+            "I",
+            "say",
+            "more",
+            "I",
+            "can't",
+            "say",
+            "any",
+            "more",
+            "it",
+            "a",
+            "place",
+            "you'll",
+            "never",
+            "forget",
+            "If",
+            "you",
+            "never",
+            "go",
+            "you'll",
+            "miss",
+            "A",
+            "Meal",
+            "of",
+            "your",
+            "life",
+            "time"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "LOBSTER",
+            "TAILS"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "in",
+            "an",
+            "effort",
+            "to",
+            "increase",
+            "turnover",
+            "the",
+            "restaurant",
+            "offers",
+            "no",
+            "desserts",
+            "beyond",
+            "the",
+            "complimentary",
+            "espresso",
+            "cup",
+            "filled",
+            "with",
+            "chocolate",
+            "mousse"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "espresso",
+            "cup",
+            "filled",
+            "with",
+            "chocolate",
+            "mousse"
+        ],
+        "index": 14
+    },
+    {
+        "tokens": [
+            "in",
+            "an",
+            "effort",
+            "to",
+            "increase",
+            "turnover",
+            "the",
+            "restaurant",
+            "offers",
+            "no",
+            "desserts",
+            "beyond",
+            "the",
+            "complimentary",
+            "espresso",
+            "cup",
+            "filled",
+            "with",
+            "chocolate",
+            "mousse"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "desserts"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "I've",
+            "been",
+            "to",
+            "this",
+            "restaurant",
+            "more",
+            "than",
+            "a",
+            "dozen",
+            "times",
+            "and",
+            "when",
+            "I'm",
+            "craving",
+            "for",
+            "Pho",
+            "Lemon",
+            "grass",
+            "chicken",
+            "or",
+            "Beef",
+            "Cube",
+            "on",
+            "rice",
+            "this",
+            "is",
+            "the",
+            "place",
+            "to",
+            "go"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Pho"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "I've",
+            "been",
+            "to",
+            "this",
+            "restaurant",
+            "more",
+            "than",
+            "a",
+            "dozen",
+            "times",
+            "and",
+            "when",
+            "I'm",
+            "craving",
+            "for",
+            "Pho",
+            "Lemon",
+            "grass",
+            "chicken",
+            "or",
+            "Beef",
+            "Cube",
+            "on",
+            "rice",
+            "this",
+            "is",
+            "the",
+            "place",
+            "to",
+            "go"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Lemon",
+            "grass",
+            "chicken"
+        ],
+        "index": 16
+    },
+    {
+        "tokens": [
+            "I've",
+            "been",
+            "to",
+            "this",
+            "restaurant",
+            "more",
+            "than",
+            "a",
+            "dozen",
+            "times",
+            "and",
+            "when",
+            "I'm",
+            "craving",
+            "for",
+            "Pho",
+            "Lemon",
+            "grass",
+            "chicken",
+            "or",
+            "Beef",
+            "Cube",
+            "on",
+            "rice",
+            "this",
+            "is",
+            "the",
+            "place",
+            "to",
+            "go"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Beef",
+            "Cube",
+            "on",
+            "rice"
+        ],
+        "index": 20
+    },
+    {
+        "tokens": [
+            "Oh",
+            "yes",
+            "and",
+            "if",
+            "you",
+            "are",
+            "a",
+            "fan",
+            "of",
+            "Indian",
+            "oldies",
+            "film",
+            "stars",
+            "there",
+            "are",
+            "plenty",
+            "of",
+            "portraits",
+            "of",
+            "Indian",
+            "actors",
+            "and",
+            "actresses",
+            "in",
+            "classic",
+            "black",
+            "white",
+            "that",
+            "adorn",
+            "the",
+            "walls",
+            "some",
+            "of",
+            "which",
+            "I",
+            "would",
+            "love",
+            "to",
+            "know",
+            "where",
+            "they",
+            "obtained"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "portraits"
+        ],
+        "index": 17
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "spectacular",
+            "from",
+            "the",
+            "appitizers",
+            "to",
+            "the",
+            "main",
+            "course",
+            "and",
+            "then",
+            "of",
+            "course",
+            "the",
+            "desserts",
+            "WOW",
+            "you'll",
+            "need",
+            "no",
+            "more"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "spectacular",
+            "from",
+            "the",
+            "appitizers",
+            "to",
+            "the",
+            "main",
+            "course",
+            "and",
+            "then",
+            "of",
+            "course",
+            "the",
+            "desserts",
+            "WOW",
+            "you'll",
+            "need",
+            "no",
+            "more"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "appitizers"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "spectacular",
+            "from",
+            "the",
+            "appitizers",
+            "to",
+            "the",
+            "main",
+            "course",
+            "and",
+            "then",
+            "of",
+            "course",
+            "the",
+            "desserts",
+            "WOW",
+            "you'll",
+            "need",
+            "no",
+            "more"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "main",
+            "course"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "spectacular",
+            "from",
+            "the",
+            "appitizers",
+            "to",
+            "the",
+            "main",
+            "course",
+            "and",
+            "then",
+            "of",
+            "course",
+            "the",
+            "desserts",
+            "WOW",
+            "you'll",
+            "need",
+            "no",
+            "more"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "desserts"
+        ],
+        "index": 16
+    },
+    {
+        "tokens": [
+            "My",
+            "fish",
+            "was",
+            "delicious",
+            "in",
+            "an",
+            "incredible",
+            "curry",
+            "sauce"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "fish"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "My",
+            "fish",
+            "was",
+            "delicious",
+            "in",
+            "an",
+            "incredible",
+            "curry",
+            "sauce"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "curry",
+            "sauce"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "If",
+            "you",
+            "are",
+            "in",
+            "search",
+            "of",
+            "the",
+            "most",
+            "authentic",
+            "NYC",
+            "deli",
+            "experience",
+            "look",
+            "no",
+            "further",
+            "than",
+            "the",
+            "famous",
+            "and",
+            "historic",
+            "Katz's",
+            "Deli",
+            "down",
+            "on",
+            "the",
+            "Lower",
+            "East",
+            "Side"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "deli"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "Even",
+            "upon",
+            "delivery",
+            "their",
+            "juicy",
+            "pork",
+            "buns",
+            "are",
+            "quite",
+            "good"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "pork",
+            "buns"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Average",
+            "to",
+            "good",
+            "Thai",
+            "food",
+            "but",
+            "terrible",
+            "delivery"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Thai",
+            "food"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Average",
+            "to",
+            "good",
+            "Thai",
+            "food",
+            "but",
+            "terrible",
+            "delivery"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "delivery"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "space",
+            "is",
+            "nice",
+            "but",
+            "when",
+            "we",
+            "order",
+            "our",
+            "drink",
+            "we",
+            "were",
+            "in",
+            "for",
+            "a",
+            "surprise"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "space"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "space",
+            "is",
+            "nice",
+            "but",
+            "when",
+            "we",
+            "order",
+            "our",
+            "drink",
+            "we",
+            "were",
+            "in",
+            "for",
+            "a",
+            "surprise"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "drink"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "The",
+            "entire",
+            "place",
+            "and",
+            "the",
+            "treatment",
+            "we",
+            "received",
+            "felt",
+            "as",
+            "a",
+            "conveyor",
+            "belt"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "place"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "Joe's",
+            "Pizza",
+            "used",
+            "to",
+            "have",
+            "the",
+            "best",
+            "slice",
+            "until",
+            "this",
+            "pizzeria",
+            "opened",
+            "up"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "slice"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "And",
+            "they",
+            "provided",
+            "a",
+            "delicious",
+            "dessert",
+            "on",
+            "the",
+            "house"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "dessert"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "They",
+            "are",
+            "still",
+            "living",
+            "in",
+            "the",
+            "dark",
+            "ages",
+            "and",
+            "do",
+            "not",
+            "have",
+            "an",
+            "answering",
+            "machine",
+            "so",
+            "if",
+            "you",
+            "want",
+            "to",
+            "make",
+            "a",
+            "reservation",
+            "you",
+            "are",
+            "limited"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "reservation"
+        ],
+        "index": 22
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "amazing",
+            "rich",
+            "pastas",
+            "and",
+            "fresh",
+            "doughy",
+            "pizza"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "amazing",
+            "rich",
+            "pastas",
+            "and",
+            "fresh",
+            "doughy",
+            "pizza"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "pastas"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "amazing",
+            "rich",
+            "pastas",
+            "and",
+            "fresh",
+            "doughy",
+            "pizza"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "pizza"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "Food",
+            "was",
+            "very",
+            "good",
+            "but",
+            "not",
+            "what",
+            "I",
+            "would",
+            "consider",
+            "out",
+            "of",
+            "this",
+            "world"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Food"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "I",
+            "had",
+            "Lobster",
+            "Bisque",
+            "it",
+            "has",
+            "2",
+            "oz",
+            "of",
+            "Maine",
+            "Lobster",
+            "in",
+            "it"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Lobster",
+            "Bisque"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "I",
+            "had",
+            "Lobster",
+            "Bisque",
+            "it",
+            "has",
+            "2",
+            "oz",
+            "of",
+            "Maine",
+            "Lobster",
+            "in",
+            "it"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Maine",
+            "Lobster"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "Try",
+            "the",
+            "Pad",
+            "Thai",
+            "it's",
+            "fabulous",
+            "and",
+            "their",
+            "prices",
+            "are",
+            "so",
+            "cheap"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Pad",
+            "Thai"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "Try",
+            "the",
+            "Pad",
+            "Thai",
+            "it's",
+            "fabulous",
+            "and",
+            "their",
+            "prices",
+            "are",
+            "so",
+            "cheap"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "prices"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "Food",
+            "is",
+            "great",
+            "and",
+            "inexpensive"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Food"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "The",
+            "price",
+            "very",
+            "reasonable"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "price"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Dessert",
+            "can't",
+            "be",
+            "missed",
+            "so",
+            "save",
+            "room"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Dessert"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "It",
+            "can",
+            "be",
+            "a",
+            "little",
+            "confusing",
+            "as",
+            "to",
+            "where",
+            "one",
+            "goes",
+            "to",
+            "order",
+            "but",
+            "once",
+            "the",
+            "food",
+            "is",
+            "ordered",
+            "you",
+            "are",
+            "in",
+            "for",
+            "a",
+            "treat"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 16
+    },
+    {
+        "tokens": [
+            "Ingredients",
+            "are",
+            "organic",
+            "which",
+            "is",
+            "a",
+            "real",
+            "plus",
+            "for",
+            "me"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Ingredients"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "It",
+            "was",
+            "so",
+            "bad",
+            "I",
+            "actually",
+            "refused",
+            "to",
+            "pay",
+            "for",
+            "my",
+            "food"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "I",
+            "recommend",
+            "this",
+            "spot",
+            "to",
+            "anyone",
+            "who",
+            "enjoys",
+            "fine",
+            "cuisine",
+            "at",
+            "reasonable",
+            "prices"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "cuisine"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "I",
+            "recommend",
+            "this",
+            "spot",
+            "to",
+            "anyone",
+            "who",
+            "enjoys",
+            "fine",
+            "cuisine",
+            "at",
+            "reasonable",
+            "prices"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "prices"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "was",
+            "very",
+            "attentive",
+            "the",
+            "ambience",
+            "lovely",
+            "and",
+            "the",
+            "food",
+            "superb"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "staff"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "was",
+            "very",
+            "attentive",
+            "the",
+            "ambience",
+            "lovely",
+            "and",
+            "the",
+            "food",
+            "superb"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "ambience"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "was",
+            "very",
+            "attentive",
+            "the",
+            "ambience",
+            "lovely",
+            "and",
+            "the",
+            "food",
+            "superb"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "I",
+            "love",
+            "when",
+            "restaurants",
+            "think",
+            "using",
+            "fancy",
+            "expensive",
+            "ingrediants",
+            "makes",
+            "the",
+            "food",
+            "fine",
+            "cuisine",
+            "even",
+            "with",
+            "no",
+            "idea",
+            "how",
+            "to",
+            "use",
+            "them"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "ingrediants"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "I",
+            "love",
+            "when",
+            "restaurants",
+            "think",
+            "using",
+            "fancy",
+            "expensive",
+            "ingrediants",
+            "makes",
+            "the",
+            "food",
+            "fine",
+            "cuisine",
+            "even",
+            "with",
+            "no",
+            "idea",
+            "how",
+            "to",
+            "use",
+            "them"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "cuisine"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "I",
+            "love",
+            "when",
+            "restaurants",
+            "think",
+            "using",
+            "fancy",
+            "expensive",
+            "ingrediants",
+            "makes",
+            "the",
+            "food",
+            "fine",
+            "cuisine",
+            "even",
+            "with",
+            "no",
+            "idea",
+            "how",
+            "to",
+            "use",
+            "them"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "THe",
+            "Pizza",
+            "and",
+            "wine",
+            "were",
+            "excellent-the",
+            "service",
+            "too--but",
+            "what",
+            "really",
+            "MADE",
+            "this",
+            "place",
+            "was",
+            "the",
+            "backyard",
+            "dining",
+            "area"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Pizza"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "THe",
+            "Pizza",
+            "and",
+            "wine",
+            "were",
+            "excellent-the",
+            "service",
+            "too--but",
+            "what",
+            "really",
+            "MADE",
+            "this",
+            "place",
+            "was",
+            "the",
+            "backyard",
+            "dining",
+            "area"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "wine"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "THe",
+            "Pizza",
+            "and",
+            "wine",
+            "were",
+            "excellent-the",
+            "service",
+            "too--but",
+            "what",
+            "really",
+            "MADE",
+            "this",
+            "place",
+            "was",
+            "the",
+            "backyard",
+            "dining",
+            "area"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "THe",
+            "Pizza",
+            "and",
+            "wine",
+            "were",
+            "excellent-the",
+            "service",
+            "too--but",
+            "what",
+            "really",
+            "MADE",
+            "this",
+            "place",
+            "was",
+            "the",
+            "backyard",
+            "dining",
+            "area"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "backyard",
+            "dining",
+            "area"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "The",
+            "waiters",
+            "are",
+            "sweet",
+            "the",
+            "food",
+            "is",
+            "tasty",
+            "and",
+            "the",
+            "bill",
+            "is",
+            "never",
+            "too",
+            "large"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "waiters"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "waiters",
+            "are",
+            "sweet",
+            "the",
+            "food",
+            "is",
+            "tasty",
+            "and",
+            "the",
+            "bill",
+            "is",
+            "never",
+            "too",
+            "large"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "The",
+            "waiters",
+            "are",
+            "sweet",
+            "the",
+            "food",
+            "is",
+            "tasty",
+            "and",
+            "the",
+            "bill",
+            "is",
+            "never",
+            "too",
+            "large"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "bill"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "superb",
+            "they",
+            "treat",
+            "you",
+            "like",
+            "family"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "We",
+            "all",
+            "had",
+            "the",
+            "tasting",
+            "menu",
+            "and",
+            "unlike",
+            "some",
+            "of",
+            "the",
+            "other",
+            "reviews",
+            "I",
+            "felt",
+            "there",
+            "was",
+            "more",
+            "than",
+            "enough",
+            "food"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "menu"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "We",
+            "all",
+            "had",
+            "the",
+            "tasting",
+            "menu",
+            "and",
+            "unlike",
+            "some",
+            "of",
+            "the",
+            "other",
+            "reviews",
+            "I",
+            "felt",
+            "there",
+            "was",
+            "more",
+            "than",
+            "enough",
+            "food"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 20
+    },
+    {
+        "tokens": [
+            "It",
+            "only",
+            "took",
+            "about",
+            "five",
+            "or",
+            "so",
+            "minutes",
+            "to",
+            "get",
+            "an",
+            "empty",
+            "table",
+            "but",
+            "standing",
+            "up",
+            "wasn't",
+            "too",
+            "bad"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "table"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "The",
+            "menu",
+            "may",
+            "be",
+            "small",
+            "but",
+            "everything",
+            "on",
+            "it",
+            "is",
+            "delicious"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "menu"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "They",
+            "had",
+            "scrapped",
+            "the",
+            "bottom",
+            "of",
+            "the",
+            "vessel",
+            "in",
+            "which",
+            "they",
+            "make",
+            "the",
+            "rice",
+            "RESULT",
+            "WE",
+            "HAD",
+            "LARGE",
+            "CHUNKS",
+            "OF",
+            "BURNT",
+            "RICE",
+            "IN",
+            "OUR",
+            "SERVING",
+            "BOWL"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "rice"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "They",
+            "had",
+            "scrapped",
+            "the",
+            "bottom",
+            "of",
+            "the",
+            "vessel",
+            "in",
+            "which",
+            "they",
+            "make",
+            "the",
+            "rice",
+            "RESULT",
+            "WE",
+            "HAD",
+            "LARGE",
+            "CHUNKS",
+            "OF",
+            "BURNT",
+            "RICE",
+            "IN",
+            "OUR",
+            "SERVING",
+            "BOWL"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "RICE"
+        ],
+        "index": 21
+    },
+    {
+        "tokens": [
+            "for",
+            "dessert",
+            "we",
+            "split",
+            "chocolate",
+            "cake",
+            "and",
+            "vanilla",
+            "gelato",
+            "with",
+            "espresso",
+            "which",
+            "were",
+            "tasty",
+            "but",
+            "I",
+            "thought",
+            "a",
+            "bit",
+            "overpriced"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "chocolate",
+            "cake"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "for",
+            "dessert",
+            "we",
+            "split",
+            "chocolate",
+            "cake",
+            "and",
+            "vanilla",
+            "gelato",
+            "with",
+            "espresso",
+            "which",
+            "were",
+            "tasty",
+            "but",
+            "I",
+            "thought",
+            "a",
+            "bit",
+            "overpriced"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "vanilla",
+            "gelato",
+            "(with",
+            "espresso)"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "for",
+            "dessert",
+            "we",
+            "split",
+            "chocolate",
+            "cake",
+            "and",
+            "vanilla",
+            "gelato",
+            "with",
+            "espresso",
+            "which",
+            "were",
+            "tasty",
+            "but",
+            "I",
+            "thought",
+            "a",
+            "bit",
+            "overpriced"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "dessert"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Warm",
+            "comfortable",
+            "surroundings",
+            "nice",
+            "appointments",
+            "witness",
+            "the",
+            "etched",
+            "glass",
+            "and",
+            "brickwork",
+            "separating",
+            "the",
+            "dining",
+            "rooms"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "surroundings"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "Warm",
+            "comfortable",
+            "surroundings",
+            "nice",
+            "appointments",
+            "witness",
+            "the",
+            "etched",
+            "glass",
+            "and",
+            "brickwork",
+            "separating",
+            "the",
+            "dining",
+            "rooms"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dining",
+            "rooms"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "We",
+            "ran",
+            "a",
+            "little",
+            "late",
+            "for",
+            "the",
+            "reservation",
+            "but",
+            "it",
+            "wasn't",
+            "a",
+            "problem",
+            "to",
+            "get",
+            "our",
+            "table",
+            "immediately"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "reservation"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "We",
+            "ran",
+            "a",
+            "little",
+            "late",
+            "for",
+            "the",
+            "reservation",
+            "but",
+            "it",
+            "wasn't",
+            "a",
+            "problem",
+            "to",
+            "get",
+            "our",
+            "table",
+            "immediately"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "table"
+        ],
+        "index": 16
+    },
+    {
+        "tokens": [
+            "We",
+            "arrived",
+            "on",
+            "time",
+            "for",
+            "our",
+            "reservation",
+            "and",
+            "seated",
+            "promptly.The"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "reservation"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "I",
+            "would",
+            "definitely",
+            "go",
+            "back",
+            "for",
+            "a",
+            "very",
+            "special",
+            "occasion",
+            "but",
+            "not",
+            "for",
+            "regular",
+            "fine",
+            "dining"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dining"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "The",
+            "well",
+            "mannered",
+            "pleasant",
+            "staff",
+            "that",
+            "Tony",
+            "has",
+            "in",
+            "his",
+            "employ"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "staff"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "The",
+            "flavors",
+            "robust",
+            "and",
+            "subtle"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "flavors"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "All",
+            "I",
+            "can",
+            "say",
+            "is",
+            "2",
+            "pints",
+            "during",
+            "happy",
+            "hour",
+            "and",
+            "the",
+            "some",
+            "of",
+            "the",
+            "cheapest",
+            "oysters",
+            "you'll",
+            "find",
+            "in",
+            "the",
+            "city",
+            "though",
+            "the",
+            "quality",
+            "is",
+            "some",
+            "of",
+            "the",
+            "best"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "oysters"
+        ],
+        "index": 16
+    },
+    {
+        "tokens": [
+            "All",
+            "I",
+            "can",
+            "say",
+            "is",
+            "2",
+            "pints",
+            "during",
+            "happy",
+            "hour",
+            "and",
+            "the",
+            "some",
+            "of",
+            "the",
+            "cheapest",
+            "oysters",
+            "you'll",
+            "find",
+            "in",
+            "the",
+            "city",
+            "though",
+            "the",
+            "quality",
+            "is",
+            "some",
+            "of",
+            "the",
+            "best"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "quality"
+        ],
+        "index": 24
+    },
+    {
+        "tokens": [
+            "I",
+            "would",
+            "never",
+            "wait",
+            "for",
+            "a",
+            "table",
+            "to",
+            "eat",
+            "it",
+            "just",
+            "is",
+            "not",
+            "THAT",
+            "great"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "table"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "We",
+            "concluded",
+            "with",
+            "tiramisu",
+            "chocolate",
+            "cake",
+            "both",
+            "were",
+            "delicious"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "tiramisu",
+            "chocolate",
+            "cake"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "The",
+            "counter",
+            "service",
+            "is",
+            "bad"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "counter",
+            "service"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Service",
+            "here",
+            "was",
+            "great",
+            "food",
+            "was",
+            "fantastic"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Service"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Service",
+            "here",
+            "was",
+            "great",
+            "food",
+            "was",
+            "fantastic"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "This",
+            "is",
+            "such",
+            "a",
+            "lovely",
+            "peaceful",
+            "place",
+            "to",
+            "eat",
+            "outside"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "place"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "The",
+            "sauce",
+            "is",
+            "delicious",
+            "and",
+            "the",
+            "crust",
+            "is",
+            "perfect"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "sauce"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "sauce",
+            "is",
+            "delicious",
+            "and",
+            "the",
+            "crust",
+            "is",
+            "perfect"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "crust"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Since",
+            "my",
+            "first",
+            "dinner",
+            "I",
+            "have",
+            "had",
+            "the",
+            "chance",
+            "to",
+            "have",
+            "brunch",
+            "at",
+            "Orsay",
+            "3x"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dinner"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Since",
+            "my",
+            "first",
+            "dinner",
+            "I",
+            "have",
+            "had",
+            "the",
+            "chance",
+            "to",
+            "have",
+            "brunch",
+            "at",
+            "Orsay",
+            "3x"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "brunch"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "You",
+            "will",
+            "pay",
+            "a",
+            "lot",
+            "for",
+            "the",
+            "decore",
+            "but",
+            "the",
+            "food",
+            "is",
+            "no",
+            "better",
+            "or",
+            "worse",
+            "than",
+            "a",
+            "lot",
+            "of",
+            "other",
+            "Chinese",
+            "and",
+            "Asian",
+            "fusion",
+            "places",
+            "in",
+            "NY"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "decore"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "You",
+            "will",
+            "pay",
+            "a",
+            "lot",
+            "for",
+            "the",
+            "decore",
+            "but",
+            "the",
+            "food",
+            "is",
+            "no",
+            "better",
+            "or",
+            "worse",
+            "than",
+            "a",
+            "lot",
+            "of",
+            "other",
+            "Chinese",
+            "and",
+            "Asian",
+            "fusion",
+            "places",
+            "in",
+            "NY"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "They",
+            "have",
+            "some",
+            "great",
+            "entrees",
+            "here",
+            "as",
+            "well"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "entrees"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "is",
+            "not",
+            "consistently",
+            "excellent",
+            "just",
+            "decent"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "served",
+            "in",
+            "small",
+            "tasting",
+            "portions",
+            "as",
+            "an",
+            "option",
+            "is",
+            "very",
+            "good",
+            "with",
+            "each",
+            "dish",
+            "being",
+            "better",
+            "than",
+            "the",
+            "next"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "served",
+            "in",
+            "small",
+            "tasting",
+            "portions",
+            "as",
+            "an",
+            "option",
+            "is",
+            "very",
+            "good",
+            "with",
+            "each",
+            "dish",
+            "being",
+            "better",
+            "than",
+            "the",
+            "next"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "served"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "served",
+            "in",
+            "small",
+            "tasting",
+            "portions",
+            "as",
+            "an",
+            "option",
+            "is",
+            "very",
+            "good",
+            "with",
+            "each",
+            "dish",
+            "being",
+            "better",
+            "than",
+            "the",
+            "next"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "portions"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "served",
+            "in",
+            "small",
+            "tasting",
+            "portions",
+            "as",
+            "an",
+            "option",
+            "is",
+            "very",
+            "good",
+            "with",
+            "each",
+            "dish",
+            "being",
+            "better",
+            "than",
+            "the",
+            "next"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "dish"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "They",
+            "do",
+            "cater",
+            "to",
+            "American",
+            "palates",
+            "but",
+            "if",
+            "you",
+            "like",
+            "it",
+            "hot",
+            "let",
+            "them",
+            "know",
+            "and",
+            "they",
+            "are",
+            "more",
+            "than",
+            "willing",
+            "to",
+            "oblige"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "cater"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "I",
+            "had",
+            "the",
+            "mango",
+            "chicken",
+            "and",
+            "i",
+            "can't",
+            "go",
+            "on",
+            "to",
+            "tell",
+            "you",
+            "how",
+            "delicious",
+            "that",
+            "was",
+            "and",
+            "the",
+            "presentation",
+            "was",
+            "beatiful"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "mango",
+            "chicken"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "I",
+            "had",
+            "the",
+            "mango",
+            "chicken",
+            "and",
+            "i",
+            "can't",
+            "go",
+            "on",
+            "to",
+            "tell",
+            "you",
+            "how",
+            "delicious",
+            "that",
+            "was",
+            "and",
+            "the",
+            "presentation",
+            "was",
+            "beatiful"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "presentation"
+        ],
+        "index": 19
+    },
+    {
+        "tokens": [
+            "I",
+            "care",
+            "more",
+            "about",
+            "the",
+            "food",
+            "and",
+            "ambience"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "I",
+            "care",
+            "more",
+            "about",
+            "the",
+            "food",
+            "and",
+            "ambience"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "ambience"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "Oh",
+            "but",
+            "wait",
+            "we",
+            "were",
+            "out",
+            "of",
+            "drinks",
+            "which",
+            "were",
+            "also",
+            "delightfully",
+            "overpriced"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "drinks"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "is",
+            "fantastic"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "garlic",
+            "mashed",
+            "potatoes",
+            "are",
+            "hands",
+            "down",
+            "the",
+            "best",
+            "in",
+            "the",
+            "city"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "garlic",
+            "mashed",
+            "potatoes"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Food",
+            "and",
+            "service",
+            "was",
+            "okay"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Food"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Food",
+            "and",
+            "service",
+            "was",
+            "okay"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "The",
+            "lamb",
+            "meat",
+            "was",
+            "under-cooked",
+            "and",
+            "EXTRMELY",
+            "CHEWY"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "lamb",
+            "meat"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "best",
+            "pad",
+            "thai",
+            "i've",
+            "ever",
+            "had"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "pad",
+            "thai"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "Over",
+            "time",
+            "the",
+            "food",
+            "quality",
+            "has",
+            "decreased",
+            "substantially",
+            "it",
+            "is",
+            "a",
+            "lot",
+            "less",
+            "crowded",
+            "than",
+            "it",
+            "used",
+            "to",
+            "and",
+            "the",
+            "service",
+            "must",
+            "definitely",
+            "be",
+            "part",
+            "of",
+            "the",
+            "reason"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "food",
+            "quality"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Over",
+            "time",
+            "the",
+            "food",
+            "quality",
+            "has",
+            "decreased",
+            "substantially",
+            "it",
+            "is",
+            "a",
+            "lot",
+            "less",
+            "crowded",
+            "than",
+            "it",
+            "used",
+            "to",
+            "and",
+            "the",
+            "service",
+            "must",
+            "definitely",
+            "be",
+            "part",
+            "of",
+            "the",
+            "reason"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 20
+    },
+    {
+        "tokens": [
+            "Great",
+            "pizza",
+            "and",
+            "fantastic",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "pizza"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Great",
+            "pizza",
+            "and",
+            "fantastic",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "We",
+            "were",
+            "seated",
+            "outside",
+            "and",
+            "the",
+            "waiter",
+            "spilled",
+            "red",
+            "wine",
+            "and",
+            "hot",
+            "tea",
+            "on",
+            "myself",
+            "and",
+            "my",
+            "date"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "waiter"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "We",
+            "were",
+            "seated",
+            "outside",
+            "and",
+            "the",
+            "waiter",
+            "spilled",
+            "red",
+            "wine",
+            "and",
+            "hot",
+            "tea",
+            "on",
+            "myself",
+            "and",
+            "my",
+            "date"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "red",
+            "wine"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "We",
+            "were",
+            "seated",
+            "outside",
+            "and",
+            "the",
+            "waiter",
+            "spilled",
+            "red",
+            "wine",
+            "and",
+            "hot",
+            "tea",
+            "on",
+            "myself",
+            "and",
+            "my",
+            "date"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "hot",
+            "tea"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "We",
+            "were",
+            "seated",
+            "outside",
+            "and",
+            "the",
+            "waiter",
+            "spilled",
+            "red",
+            "wine",
+            "and",
+            "hot",
+            "tea",
+            "on",
+            "myself",
+            "and",
+            "my",
+            "date"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "outside"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "i",
+            "would",
+            "just",
+            "ask",
+            "for",
+            "no",
+            "oil",
+            "next",
+            "time"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "oil"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "While",
+            "this",
+            "is",
+            "a",
+            "pretty",
+            "place",
+            "in",
+            "that",
+            "overly",
+            "cute",
+            "French",
+            "way",
+            "the",
+            "food",
+            "was",
+            "insultingly",
+            "horrible"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "place"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "While",
+            "this",
+            "is",
+            "a",
+            "pretty",
+            "place",
+            "in",
+            "that",
+            "overly",
+            "cute",
+            "French",
+            "way",
+            "the",
+            "food",
+            "was",
+            "insultingly",
+            "horrible"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "I",
+            "went",
+            "there",
+            "for",
+            "lunch",
+            "and",
+            "it",
+            "was",
+            "not",
+            "as",
+            "good",
+            "as",
+            "I",
+            "expected",
+            "from",
+            "the",
+            "reviews",
+            "I",
+            "read"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "lunch"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "The",
+            "wine",
+            "list",
+            "isn't",
+            "great",
+            "and",
+            "the",
+            "desserts",
+            "are",
+            "shipped",
+            "in",
+            "from",
+            "Bruno's",
+            "down",
+            "the",
+            "street",
+            "which",
+            "is",
+            "not",
+            "as",
+            "good",
+            "as",
+            "it",
+            "used",
+            "to",
+            "be"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "wine",
+            "list"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "wine",
+            "list",
+            "isn't",
+            "great",
+            "and",
+            "the",
+            "desserts",
+            "are",
+            "shipped",
+            "in",
+            "from",
+            "Bruno's",
+            "down",
+            "the",
+            "street",
+            "which",
+            "is",
+            "not",
+            "as",
+            "good",
+            "as",
+            "it",
+            "used",
+            "to",
+            "be"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "desserts"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "I",
+            "ordered",
+            "a",
+            "Lassi",
+            "and",
+            "asked",
+            "4",
+            "times",
+            "for",
+            "it",
+            "but",
+            "never",
+            "got",
+            "it"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Lassi"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Their",
+            "coffee",
+            "is",
+            "quite",
+            "good",
+            "too"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "coffee"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "great",
+            "wine",
+            "list",
+            "italian",
+            "good",
+            "food",
+            "service",
+            "was",
+            "INITIALLY",
+            "fine"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "wine",
+            "list"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "great",
+            "wine",
+            "list",
+            "italian",
+            "good",
+            "food",
+            "service",
+            "was",
+            "INITIALLY",
+            "fine"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "great",
+            "wine",
+            "list",
+            "italian",
+            "good",
+            "food",
+            "service",
+            "was",
+            "INITIALLY",
+            "fine"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Despite",
+            "the",
+            "fact",
+            "that",
+            "the",
+            "space",
+            "is",
+            "large",
+            "they've",
+            "overcrowded",
+            "the",
+            "floor",
+            "with",
+            "tables"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "space"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Despite",
+            "the",
+            "fact",
+            "that",
+            "the",
+            "space",
+            "is",
+            "large",
+            "they've",
+            "overcrowded",
+            "the",
+            "floor",
+            "with",
+            "tables"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "tables"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "As",
+            "far",
+            "as",
+            "the",
+            "service",
+            "goes",
+            "the",
+            "waitresses",
+            "were",
+            "not",
+            "particularly",
+            "friendly",
+            "but",
+            "they",
+            "got",
+            "the",
+            "job",
+            "done"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "As",
+            "far",
+            "as",
+            "the",
+            "service",
+            "goes",
+            "the",
+            "waitresses",
+            "were",
+            "not",
+            "particularly",
+            "friendly",
+            "but",
+            "they",
+            "got",
+            "the",
+            "job",
+            "done"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "waitresses"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "They",
+            "are",
+            "not",
+            "helpful",
+            "in",
+            "the",
+            "least",
+            "and",
+            "will",
+            "give",
+            "you",
+            "the",
+            "grand",
+            "run",
+            "around",
+            "so",
+            "by",
+            "the",
+            "time",
+            "the",
+            "event",
+            "date",
+            "rolls",
+            "around",
+            "you",
+            "will",
+            "not",
+            "only",
+            "regret",
+            "chosing",
+            "this",
+            "place",
+            "but",
+            "also",
+            "become",
+            "hostile"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "place"
+        ],
+        "index": 31
+    },
+    {
+        "tokens": [
+            "I",
+            "had",
+            "to",
+            "ask",
+            "her",
+            "three",
+            "times",
+            "before",
+            "she",
+            "finally",
+            "came",
+            "back",
+            "with",
+            "the",
+            "dish",
+            "Ive",
+            "requested"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dish"
+        ],
+        "index": 14
+    },
+    {
+        "tokens": [
+            "Normally",
+            "that",
+            "would",
+            "be",
+            "improper",
+            "however",
+            "they",
+            "were",
+            "all",
+            "delicious",
+            "and",
+            "my",
+            "host",
+            "did",
+            "not",
+            "complain"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "host"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "Taxan",
+            "delicious"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Taxan"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Unlike",
+            "other",
+            "places",
+            "in",
+            "NYC",
+            "where",
+            "the",
+            "sandwiches",
+            "you",
+            "want",
+            "only",
+            "come",
+            "as",
+            "a",
+            "triple-decker",
+            "here",
+            "you",
+            "can",
+            "get",
+            "what",
+            "you",
+            "want",
+            "in",
+            "a",
+            "reasonably-sized",
+            "portion",
+            "and",
+            "price"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "sandwiches"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "Unlike",
+            "other",
+            "places",
+            "in",
+            "NYC",
+            "where",
+            "the",
+            "sandwiches",
+            "you",
+            "want",
+            "only",
+            "come",
+            "as",
+            "a",
+            "triple-decker",
+            "here",
+            "you",
+            "can",
+            "get",
+            "what",
+            "you",
+            "want",
+            "in",
+            "a",
+            "reasonably-sized",
+            "portion",
+            "and",
+            "price"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "price"
+        ],
+        "index": 27
+    },
+    {
+        "tokens": [
+            "Unlike",
+            "other",
+            "places",
+            "in",
+            "NYC",
+            "where",
+            "the",
+            "sandwiches",
+            "you",
+            "want",
+            "only",
+            "come",
+            "as",
+            "a",
+            "triple-decker",
+            "here",
+            "you",
+            "can",
+            "get",
+            "what",
+            "you",
+            "want",
+            "in",
+            "a",
+            "reasonably-sized",
+            "portion",
+            "and",
+            "price"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "portion"
+        ],
+        "index": 25
+    },
+    {
+        "tokens": [
+            "Southern",
+            "Indian",
+            "cuisine",
+            "is",
+            "still",
+            "there",
+            "too"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Southern",
+            "Indian",
+            "cuisine"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Restaurant",
+            "snobs",
+            "need",
+            "not",
+            "bother",
+            "this",
+            "is",
+            "a",
+            "small",
+            "neighborhood",
+            "kind",
+            "of",
+            "place"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "place"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "They",
+            "couldn't",
+            "even",
+            "make",
+            "a",
+            "salad",
+            "that",
+            "was",
+            "appealing"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "salad"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "For",
+            "two",
+            "people",
+            "with",
+            "tip",
+            "was",
+            "less",
+            "than",
+            "25",
+            "bucks"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "tip"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "Killer",
+            "Sushi"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Sushi"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Of",
+            "course",
+            "the",
+            "reason",
+            "its",
+            "so",
+            "packed",
+            "is",
+            "because",
+            "the",
+            "food",
+            "is",
+            "so",
+            "delicious"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "Staffs",
+            "are",
+            "not",
+            "that",
+            "friendly",
+            "but",
+            "the",
+            "taste",
+            "covers",
+            "all"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "Staffs"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Staffs",
+            "are",
+            "not",
+            "that",
+            "friendly",
+            "but",
+            "the",
+            "taste",
+            "covers",
+            "all"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "taste"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "jukebox",
+            "plays",
+            "everything",
+            "from",
+            "Italian",
+            "Opera",
+            "to",
+            "The",
+            "Strokes"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "jukebox"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Plus",
+            "they",
+            "made",
+            "a",
+            "perfect",
+            "martini"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "martini"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "I",
+            "am",
+            "not",
+            "sure",
+            "if",
+            "I",
+            "would",
+            "call",
+            "the",
+            "food",
+            "here",
+            "Indian",
+            "as",
+            "it",
+            "is",
+            "a",
+            "fusion",
+            "of",
+            "what",
+            "seems",
+            "to",
+            "be",
+            "French",
+            "with",
+            "an",
+            "Indian",
+            "or",
+            "exotic",
+            "touch"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "I've",
+            "eaten",
+            "thai",
+            "many",
+            "times",
+            "and",
+            "am",
+            "very",
+            "familiar",
+            "with",
+            "the",
+            "cuisine"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "cuisine"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "The",
+            "waiter",
+            "was",
+            "attentive"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "waiter"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Their",
+            "Margarita",
+            "is",
+            "best",
+            "I've",
+            "had",
+            "since",
+            "I've",
+            "returned",
+            "from",
+            "Naples"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Margarita"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "tastes",
+            "makes",
+            "your",
+            "mouth",
+            "water",
+            "for",
+            "more"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "tastes"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Their",
+            "sake",
+            "list",
+            "was",
+            "extensive",
+            "but",
+            "we",
+            "were",
+            "looking",
+            "for",
+            "Purple",
+            "Haze",
+            "which",
+            "wasn't",
+            "listed",
+            "but",
+            "made",
+            "for",
+            "us",
+            "upon",
+            "request"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "sake",
+            "list"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Their",
+            "sake",
+            "list",
+            "was",
+            "extensive",
+            "but",
+            "we",
+            "were",
+            "looking",
+            "for",
+            "Purple",
+            "Haze",
+            "which",
+            "wasn't",
+            "listed",
+            "but",
+            "made",
+            "for",
+            "us",
+            "upon",
+            "request"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "Purple",
+            "Haze"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "The",
+            "tables",
+            "are",
+            "crammed",
+            "way",
+            "too",
+            "close",
+            "the",
+            "menu",
+            "is",
+            "typical",
+            "of",
+            "any",
+            "Italian",
+            "restaurant",
+            "and",
+            "the",
+            "wine",
+            "list",
+            "is",
+            "simply",
+            "overpriced"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "tables"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "tables",
+            "are",
+            "crammed",
+            "way",
+            "too",
+            "close",
+            "the",
+            "menu",
+            "is",
+            "typical",
+            "of",
+            "any",
+            "Italian",
+            "restaurant",
+            "and",
+            "the",
+            "wine",
+            "list",
+            "is",
+            "simply",
+            "overpriced"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "menu"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "The",
+            "tables",
+            "are",
+            "crammed",
+            "way",
+            "too",
+            "close",
+            "the",
+            "menu",
+            "is",
+            "typical",
+            "of",
+            "any",
+            "Italian",
+            "restaurant",
+            "and",
+            "the",
+            "wine",
+            "list",
+            "is",
+            "simply",
+            "overpriced"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "wine",
+            "list"
+        ],
+        "index": 17
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "was",
+            "actually",
+            "aweful"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "They",
+            "are",
+            "served",
+            "with",
+            "a",
+            "free",
+            "appetizer",
+            "and",
+            "the",
+            "portions",
+            "are",
+            "perfect",
+            "for",
+            "lunch"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "appetizer"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "They",
+            "are",
+            "served",
+            "with",
+            "a",
+            "free",
+            "appetizer",
+            "and",
+            "the",
+            "portions",
+            "are",
+            "perfect",
+            "for",
+            "lunch"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "portions"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "They",
+            "are",
+            "served",
+            "with",
+            "a",
+            "free",
+            "appetizer",
+            "and",
+            "the",
+            "portions",
+            "are",
+            "perfect",
+            "for",
+            "lunch"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "served"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "They",
+            "are",
+            "served",
+            "with",
+            "a",
+            "free",
+            "appetizer",
+            "and",
+            "the",
+            "portions",
+            "are",
+            "perfect",
+            "for",
+            "lunch"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "lunch"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "There",
+            "is",
+            "actually",
+            "space",
+            "to",
+            "breathe",
+            "and",
+            "the",
+            "decor",
+            "sets",
+            "the",
+            "tone",
+            "for",
+            "an",
+            "intimate",
+            "dinner"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "space"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "There",
+            "is",
+            "actually",
+            "space",
+            "to",
+            "breathe",
+            "and",
+            "the",
+            "decor",
+            "sets",
+            "the",
+            "tone",
+            "for",
+            "an",
+            "intimate",
+            "dinner"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "decor"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "There",
+            "is",
+            "actually",
+            "space",
+            "to",
+            "breathe",
+            "and",
+            "the",
+            "decor",
+            "sets",
+            "the",
+            "tone",
+            "for",
+            "an",
+            "intimate",
+            "dinner"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dinner"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "We",
+            "went",
+            "around",
+            "9:30",
+            "on",
+            "a",
+            "Friday",
+            "and",
+            "it",
+            "had",
+            "died",
+            "down",
+            "a",
+            "bit",
+            "by",
+            "then",
+            "so",
+            "the",
+            "service",
+            "was",
+            "great"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 18
+    },
+    {
+        "tokens": [
+            "My",
+            "husband",
+            "and",
+            "I",
+            "both",
+            "ordered",
+            "the",
+            "Steak",
+            "medium"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Steak"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "Furthermore",
+            "the",
+            "rice",
+            "had",
+            "no",
+            "seasoning",
+            "so",
+            "the",
+            "sushi",
+            "was",
+            "bland",
+            "and",
+            "disgusting"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "rice"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "Furthermore",
+            "the",
+            "rice",
+            "had",
+            "no",
+            "seasoning",
+            "so",
+            "the",
+            "sushi",
+            "was",
+            "bland",
+            "and",
+            "disgusting"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "sushi"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "Furthermore",
+            "the",
+            "rice",
+            "had",
+            "no",
+            "seasoning",
+            "so",
+            "the",
+            "sushi",
+            "was",
+            "bland",
+            "and",
+            "disgusting"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "seasoning"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "This",
+            "place",
+            "has",
+            "realy",
+            "fresh",
+            "sushi",
+            "and",
+            "a",
+            "nice",
+            "large",
+            "menu",
+            "of",
+            "Japanese",
+            "classic",
+            "cuisine"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "sushi"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "This",
+            "place",
+            "has",
+            "realy",
+            "fresh",
+            "sushi",
+            "and",
+            "a",
+            "nice",
+            "large",
+            "menu",
+            "of",
+            "Japanese",
+            "classic",
+            "cuisine"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "menu"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "This",
+            "place",
+            "has",
+            "realy",
+            "fresh",
+            "sushi",
+            "and",
+            "a",
+            "nice",
+            "large",
+            "menu",
+            "of",
+            "Japanese",
+            "classic",
+            "cuisine"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Japanese",
+            "classic",
+            "cuisine"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "The",
+            "sushi",
+            "is",
+            "average",
+            "and",
+            "the",
+            "prices",
+            "are",
+            "anything",
+            "but"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "sushi"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "sushi",
+            "is",
+            "average",
+            "and",
+            "the",
+            "prices",
+            "are",
+            "anything",
+            "but"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "prices"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "My",
+            "wife",
+            "and",
+            "I",
+            "also",
+            "enjoyed",
+            "the",
+            "spinach",
+            "the",
+            "Shanghai",
+            "low",
+            "mein",
+            "and",
+            "other",
+            "attractions"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "spinach"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "My",
+            "wife",
+            "and",
+            "I",
+            "also",
+            "enjoyed",
+            "the",
+            "spinach",
+            "the",
+            "Shanghai",
+            "low",
+            "mein",
+            "and",
+            "other",
+            "attractions"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Shanghai",
+            "low",
+            "mein"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "Owner",
+            "must",
+            "have",
+            "coem",
+            "on",
+            "this",
+            "website",
+            "to",
+            "give",
+            "himself",
+            "credit"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Owner"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Turned",
+            "out",
+            "there",
+            "was",
+            "full",
+            "service",
+            "upstairs",
+            "and",
+            "sat",
+            "down"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Several",
+            "of",
+            "the",
+            "dim",
+            "sum",
+            "orders",
+            "had",
+            "about",
+            "6-8",
+            "pieces"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dim",
+            "sum",
+            "orders"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "If",
+            "you",
+            "have",
+            "a",
+            "dumpling",
+            "fetish",
+            "i",
+            "suggest",
+            "you",
+            "try",
+            "some",
+            "here"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "dumpling"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "Three",
+            "page",
+            "wine",
+            "menu",
+            "one",
+            "page",
+            "entree",
+            "and",
+            "horedevous"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "wine",
+            "menu"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "Three",
+            "page",
+            "wine",
+            "menu",
+            "one",
+            "page",
+            "entree",
+            "and",
+            "horedevous"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "entree"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Three",
+            "page",
+            "wine",
+            "menu",
+            "one",
+            "page",
+            "entree",
+            "and",
+            "horedevous"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "horedevous"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "consistently",
+            "wonderful",
+            "I've",
+            "been",
+            "coming",
+            "here",
+            "for",
+            "years",
+            "and",
+            "the",
+            "owner",
+            "has",
+            "always",
+            "been",
+            "accomodating",
+            "and",
+            "friendly"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "consistently",
+            "wonderful",
+            "I've",
+            "been",
+            "coming",
+            "here",
+            "for",
+            "years",
+            "and",
+            "the",
+            "owner",
+            "has",
+            "always",
+            "been",
+            "accomodating",
+            "and",
+            "friendly"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "owner"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "The",
+            "waiters",
+            "and",
+            "owners",
+            "were",
+            "nonchalant",
+            "about",
+            "this",
+            "and",
+            "promised",
+            "to",
+            "call",
+            "the",
+            "exterminator",
+            "but",
+            "weren't",
+            "as",
+            "dismayed",
+            "or",
+            "apologetic",
+            "as",
+            "I",
+            "would",
+            "have",
+            "expected"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "waiters"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "waiters",
+            "and",
+            "owners",
+            "were",
+            "nonchalant",
+            "about",
+            "this",
+            "and",
+            "promised",
+            "to",
+            "call",
+            "the",
+            "exterminator",
+            "but",
+            "weren't",
+            "as",
+            "dismayed",
+            "or",
+            "apologetic",
+            "as",
+            "I",
+            "would",
+            "have",
+            "expected"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "owners"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "And",
+            "the",
+            "food",
+            "was",
+            "fantastic"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "If",
+            "you're",
+            "looking",
+            "for",
+            "a",
+            "place",
+            "to",
+            "sit",
+            "down",
+            "have",
+            "a",
+            "drink",
+            "and",
+            "conversations",
+            "with",
+            "friends",
+            "go",
+            "to",
+            "sweet-n-tart",
+            "and",
+            "order",
+            "yourself",
+            "a",
+            "hong-kong",
+            "styled",
+            "milk",
+            "and",
+            "tea",
+            "with",
+            "tapioca",
+            "pearls",
+            "hot"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "drink"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "If",
+            "you're",
+            "looking",
+            "for",
+            "a",
+            "place",
+            "to",
+            "sit",
+            "down",
+            "have",
+            "a",
+            "drink",
+            "and",
+            "conversations",
+            "with",
+            "friends",
+            "go",
+            "to",
+            "sweet-n-tart",
+            "and",
+            "order",
+            "yourself",
+            "a",
+            "hong-kong",
+            "styled",
+            "milk",
+            "and",
+            "tea",
+            "with",
+            "tapioca",
+            "pearls",
+            "hot"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "hong-kong",
+            "styled",
+            "milk"
+        ],
+        "index": 23
+    },
+    {
+        "tokens": [
+            "If",
+            "you're",
+            "looking",
+            "for",
+            "a",
+            "place",
+            "to",
+            "sit",
+            "down",
+            "have",
+            "a",
+            "drink",
+            "and",
+            "conversations",
+            "with",
+            "friends",
+            "go",
+            "to",
+            "sweet-n-tart",
+            "and",
+            "order",
+            "yourself",
+            "a",
+            "hong-kong",
+            "styled",
+            "milk",
+            "and",
+            "tea",
+            "with",
+            "tapioca",
+            "pearls",
+            "hot"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "tea",
+            "with",
+            "tapioca",
+            "pearls",
+            "(hot)"
+        ],
+        "index": 27
+    },
+    {
+        "tokens": [
+            "Aside",
+            "from",
+            "the",
+            "Sea",
+            "Urchin",
+            "the",
+            "chef",
+            "recommended",
+            "an",
+            "assortment",
+            "of",
+            "fish",
+            "including",
+            "Fatty",
+            "Yellow",
+            "Tail",
+            "Boton",
+            "Shrimp",
+            "Blue",
+            "Fin",
+            "Torro",
+            "Fatty",
+            "Tuna",
+            "Sea",
+            "Eel",
+            "etc"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "chef"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Aside",
+            "from",
+            "the",
+            "Sea",
+            "Urchin",
+            "the",
+            "chef",
+            "recommended",
+            "an",
+            "assortment",
+            "of",
+            "fish",
+            "including",
+            "Fatty",
+            "Yellow",
+            "Tail",
+            "Boton",
+            "Shrimp",
+            "Blue",
+            "Fin",
+            "Torro",
+            "Fatty",
+            "Tuna",
+            "Sea",
+            "Eel",
+            "etc"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "assortment",
+            "of",
+            "fish"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "Aside",
+            "from",
+            "the",
+            "Sea",
+            "Urchin",
+            "the",
+            "chef",
+            "recommended",
+            "an",
+            "assortment",
+            "of",
+            "fish",
+            "including",
+            "Fatty",
+            "Yellow",
+            "Tail",
+            "Boton",
+            "Shrimp",
+            "Blue",
+            "Fin",
+            "Torro",
+            "Fatty",
+            "Tuna",
+            "Sea",
+            "Eel",
+            "etc"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Fatty",
+            "Yellow",
+            "Tail"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "Aside",
+            "from",
+            "the",
+            "Sea",
+            "Urchin",
+            "the",
+            "chef",
+            "recommended",
+            "an",
+            "assortment",
+            "of",
+            "fish",
+            "including",
+            "Fatty",
+            "Yellow",
+            "Tail",
+            "Boton",
+            "Shrimp",
+            "Blue",
+            "Fin",
+            "Torro",
+            "Fatty",
+            "Tuna",
+            "Sea",
+            "Eel",
+            "etc"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Boton",
+            "Shrimp"
+        ],
+        "index": 16
+    },
+    {
+        "tokens": [
+            "Aside",
+            "from",
+            "the",
+            "Sea",
+            "Urchin",
+            "the",
+            "chef",
+            "recommended",
+            "an",
+            "assortment",
+            "of",
+            "fish",
+            "including",
+            "Fatty",
+            "Yellow",
+            "Tail",
+            "Boton",
+            "Shrimp",
+            "Blue",
+            "Fin",
+            "Torro",
+            "Fatty",
+            "Tuna",
+            "Sea",
+            "Eel",
+            "etc"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Sea",
+            "Eel"
+        ],
+        "index": 23
+    },
+    {
+        "tokens": [
+            "Aside",
+            "from",
+            "the",
+            "Sea",
+            "Urchin",
+            "the",
+            "chef",
+            "recommended",
+            "an",
+            "assortment",
+            "of",
+            "fish",
+            "including",
+            "Fatty",
+            "Yellow",
+            "Tail",
+            "Boton",
+            "Shrimp",
+            "Blue",
+            "Fin",
+            "Torro",
+            "Fatty",
+            "Tuna",
+            "Sea",
+            "Eel",
+            "etc"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Sea",
+            "Urchin"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Aside",
+            "from",
+            "the",
+            "Sea",
+            "Urchin",
+            "the",
+            "chef",
+            "recommended",
+            "an",
+            "assortment",
+            "of",
+            "fish",
+            "including",
+            "Fatty",
+            "Yellow",
+            "Tail",
+            "Boton",
+            "Shrimp",
+            "Blue",
+            "Fin",
+            "Torro",
+            "Fatty",
+            "Tuna",
+            "Sea",
+            "Eel",
+            "etc"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Blue",
+            "Fin",
+            "Torro",
+            "(Fatty",
+            "Tuna)"
+        ],
+        "index": 18
+    },
+    {
+        "tokens": [
+            "They're",
+            "also",
+            "friendlier",
+            "here",
+            "especially",
+            "the",
+            "owner",
+            "Kenny"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "owner"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "While",
+            "the",
+            "room",
+            "is",
+            "not",
+            "particularly",
+            "comfortable",
+            "once",
+            "you're",
+            "seated",
+            "you'll",
+            "forget",
+            "about",
+            "everything",
+            "except",
+            "what's",
+            "on",
+            "your",
+            "plate"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "room"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "While",
+            "the",
+            "room",
+            "is",
+            "not",
+            "particularly",
+            "comfortable",
+            "once",
+            "you're",
+            "seated",
+            "you'll",
+            "forget",
+            "about",
+            "everything",
+            "except",
+            "what's",
+            "on",
+            "your",
+            "plate"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "plate"
+        ],
+        "index": 18
+    },
+    {
+        "tokens": [
+            "I've",
+            "lived",
+            "in",
+            "NYC",
+            "all",
+            "my",
+            "life",
+            "and",
+            "had",
+            "never",
+            "before",
+            "seen",
+            "so",
+            "many",
+            "waterbugs",
+            "in",
+            "one",
+            "place",
+            "except",
+            "in",
+            "a",
+            "really",
+            "bad",
+            "dream"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "waterbugs"
+        ],
+        "index": 14
+    },
+    {
+        "tokens": [
+            "Winnie",
+            "and",
+            "her",
+            "staff",
+            "are",
+            "the",
+            "best",
+            "crew",
+            "you",
+            "can",
+            "find",
+            "serving",
+            "you"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "crew"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "Winnie",
+            "and",
+            "her",
+            "staff",
+            "are",
+            "the",
+            "best",
+            "crew",
+            "you",
+            "can",
+            "find",
+            "serving",
+            "you"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "staff"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Winnie",
+            "and",
+            "her",
+            "staff",
+            "are",
+            "the",
+            "best",
+            "crew",
+            "you",
+            "can",
+            "find",
+            "serving",
+            "you"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "serving"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "The",
+            "ambiance",
+            "is",
+            "minimal",
+            "the",
+            "food",
+            "is",
+            "not",
+            "phenomenal",
+            "but",
+            "some",
+            "dishes",
+            "are",
+            "quite",
+            "good",
+            "such",
+            "as",
+            "the",
+            "eggplant",
+            "parmesan",
+            "veal",
+            "in",
+            "carozza",
+            "chicken",
+            "saltimbocca"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "ambiance"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "ambiance",
+            "is",
+            "minimal",
+            "the",
+            "food",
+            "is",
+            "not",
+            "phenomenal",
+            "but",
+            "some",
+            "dishes",
+            "are",
+            "quite",
+            "good",
+            "such",
+            "as",
+            "the",
+            "eggplant",
+            "parmesan",
+            "veal",
+            "in",
+            "carozza",
+            "chicken",
+            "saltimbocca"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "The",
+            "ambiance",
+            "is",
+            "minimal",
+            "the",
+            "food",
+            "is",
+            "not",
+            "phenomenal",
+            "but",
+            "some",
+            "dishes",
+            "are",
+            "quite",
+            "good",
+            "such",
+            "as",
+            "the",
+            "eggplant",
+            "parmesan",
+            "veal",
+            "in",
+            "carozza",
+            "chicken",
+            "saltimbocca"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "dishes"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "The",
+            "ambiance",
+            "is",
+            "minimal",
+            "the",
+            "food",
+            "is",
+            "not",
+            "phenomenal",
+            "but",
+            "some",
+            "dishes",
+            "are",
+            "quite",
+            "good",
+            "such",
+            "as",
+            "the",
+            "eggplant",
+            "parmesan",
+            "veal",
+            "in",
+            "carozza",
+            "chicken",
+            "saltimbocca"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "eggplant",
+            "parmesan"
+        ],
+        "index": 18
+    },
+    {
+        "tokens": [
+            "The",
+            "ambiance",
+            "is",
+            "minimal",
+            "the",
+            "food",
+            "is",
+            "not",
+            "phenomenal",
+            "but",
+            "some",
+            "dishes",
+            "are",
+            "quite",
+            "good",
+            "such",
+            "as",
+            "the",
+            "eggplant",
+            "parmesan",
+            "veal",
+            "in",
+            "carozza",
+            "chicken",
+            "saltimbocca"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "veal",
+            "in",
+            "carozza",
+            "chicken",
+            "saltimbocca"
+        ],
+        "index": 20
+    },
+    {
+        "tokens": [
+            "My",
+            "host",
+            "asked",
+            "for",
+            "appetizers",
+            "for",
+            "the",
+            "group",
+            "and",
+            "the",
+            "waiter",
+            "gave",
+            "us",
+            "not",
+            "only",
+            "what",
+            "we",
+            "ordered",
+            "but",
+            "some",
+            "other",
+            "items",
+            "that",
+            "were",
+            "not",
+            "ordered"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "host"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "My",
+            "host",
+            "asked",
+            "for",
+            "appetizers",
+            "for",
+            "the",
+            "group",
+            "and",
+            "the",
+            "waiter",
+            "gave",
+            "us",
+            "not",
+            "only",
+            "what",
+            "we",
+            "ordered",
+            "but",
+            "some",
+            "other",
+            "items",
+            "that",
+            "were",
+            "not",
+            "ordered"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "appetizers"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "My",
+            "host",
+            "asked",
+            "for",
+            "appetizers",
+            "for",
+            "the",
+            "group",
+            "and",
+            "the",
+            "waiter",
+            "gave",
+            "us",
+            "not",
+            "only",
+            "what",
+            "we",
+            "ordered",
+            "but",
+            "some",
+            "other",
+            "items",
+            "that",
+            "were",
+            "not",
+            "ordered"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "waiter"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "You",
+            "can",
+            "even",
+            "get",
+            "packages",
+            "of",
+            "the",
+            "chutneys",
+            "to",
+            "stock",
+            "your",
+            "fridge"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "chutneys"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "bar",
+            "has",
+            "various",
+            "selections",
+            "and",
+            "the",
+            "mixed",
+            "drink",
+            "special",
+            "is",
+            "a",
+            "catcher",
+            "2",
+            "for",
+            "1's"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "bar"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "bar",
+            "has",
+            "various",
+            "selections",
+            "and",
+            "the",
+            "mixed",
+            "drink",
+            "special",
+            "is",
+            "a",
+            "catcher",
+            "2",
+            "for",
+            "1's"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "mixed",
+            "drink",
+            "special"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "If",
+            "it",
+            "isn't",
+            "for",
+            "the",
+            "food",
+            "A",
+            "it",
+            "must",
+            "be",
+            "the",
+            "service",
+            "or",
+            "the",
+            "ambience"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "If",
+            "it",
+            "isn't",
+            "for",
+            "the",
+            "food",
+            "A",
+            "it",
+            "must",
+            "be",
+            "the",
+            "service",
+            "or",
+            "the",
+            "ambience"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "If",
+            "it",
+            "isn't",
+            "for",
+            "the",
+            "food",
+            "A",
+            "it",
+            "must",
+            "be",
+            "the",
+            "service",
+            "or",
+            "the",
+            "ambience"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "ambience"
+        ],
+        "index": 14
+    },
+    {
+        "tokens": [
+            "During",
+            "the",
+            "course",
+            "of",
+            "the",
+            "past",
+            "3",
+            "months",
+            "the",
+            "chef",
+            "and",
+            "staff",
+            "changed",
+            "and",
+            "it",
+            "was",
+            "not",
+            "for",
+            "the",
+            "better"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "chef"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "During",
+            "the",
+            "course",
+            "of",
+            "the",
+            "past",
+            "3",
+            "months",
+            "the",
+            "chef",
+            "and",
+            "staff",
+            "changed",
+            "and",
+            "it",
+            "was",
+            "not",
+            "for",
+            "the",
+            "better"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "staff"
+        ],
+        "index": 11
+    },
+    {
+        "tokens": [
+            "I",
+            "like",
+            "the",
+            "ambience",
+            "it's",
+            "very",
+            "dark",
+            "and",
+            "original"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "ambience"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Overall",
+            "not",
+            "worth",
+            "the",
+            "money"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "money"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "This",
+            "place",
+            "is",
+            "not",
+            "worth",
+            "the",
+            "prices"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "prices"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "We",
+            "left",
+            "after",
+            "one",
+            "drink"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "drink"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "Pick",
+            "a",
+            "bagel",
+            "has",
+            "the",
+            "best",
+            "bagels",
+            "in",
+            "the",
+            "city"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "bagels"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "You",
+            "are",
+            "paying",
+            "for",
+            "the",
+            "atmosphere",
+            "which",
+            "is",
+            "nice",
+            "but",
+            "can",
+            "be",
+            "had",
+            "in",
+            "numerous",
+            "places",
+            "in",
+            "Bay",
+            "Ridge"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "atmosphere"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Yes",
+            "you",
+            "have",
+            "to",
+            "wait",
+            "to",
+            "be",
+            "seated",
+            "and",
+            "because",
+            "its",
+            "small",
+            "there",
+            "is",
+            "no",
+            "waiting",
+            "area",
+            "and",
+            "the",
+            "seat",
+            "at",
+            "the",
+            "bar",
+            "was",
+            "all",
+            "taken"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "waiting",
+            "area"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "Yes",
+            "you",
+            "have",
+            "to",
+            "wait",
+            "to",
+            "be",
+            "seated",
+            "and",
+            "because",
+            "its",
+            "small",
+            "there",
+            "is",
+            "no",
+            "waiting",
+            "area",
+            "and",
+            "the",
+            "seat",
+            "at",
+            "the",
+            "bar",
+            "was",
+            "all",
+            "taken"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "seat"
+        ],
+        "index": 19
+    },
+    {
+        "tokens": [
+            "Yes",
+            "you",
+            "have",
+            "to",
+            "wait",
+            "to",
+            "be",
+            "seated",
+            "and",
+            "because",
+            "its",
+            "small",
+            "there",
+            "is",
+            "no",
+            "waiting",
+            "area",
+            "and",
+            "the",
+            "seat",
+            "at",
+            "the",
+            "bar",
+            "was",
+            "all",
+            "taken"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "bar"
+        ],
+        "index": 22
+    },
+    {
+        "tokens": [
+            "Yes",
+            "you",
+            "have",
+            "to",
+            "wait",
+            "to",
+            "be",
+            "seated",
+            "and",
+            "because",
+            "its",
+            "small",
+            "there",
+            "is",
+            "no",
+            "waiting",
+            "area",
+            "and",
+            "the",
+            "seat",
+            "at",
+            "the",
+            "bar",
+            "was",
+            "all",
+            "taken"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "wait"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "The",
+            "last",
+            "two",
+            "times",
+            "I",
+            "ordered",
+            "from",
+            "here",
+            "my",
+            "food",
+            "was",
+            "soo",
+            "spicy",
+            "that",
+            "I",
+            "could",
+            "barely",
+            "eat",
+            "it",
+            "and",
+            "the",
+            "spice",
+            "took",
+            "away",
+            "from",
+            "the",
+            "flavor",
+            "of",
+            "the",
+            "dish"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "The",
+            "last",
+            "two",
+            "times",
+            "I",
+            "ordered",
+            "from",
+            "here",
+            "my",
+            "food",
+            "was",
+            "soo",
+            "spicy",
+            "that",
+            "I",
+            "could",
+            "barely",
+            "eat",
+            "it",
+            "and",
+            "the",
+            "spice",
+            "took",
+            "away",
+            "from",
+            "the",
+            "flavor",
+            "of",
+            "the",
+            "dish"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "flavor"
+        ],
+        "index": 26
+    },
+    {
+        "tokens": [
+            "The",
+            "last",
+            "two",
+            "times",
+            "I",
+            "ordered",
+            "from",
+            "here",
+            "my",
+            "food",
+            "was",
+            "soo",
+            "spicy",
+            "that",
+            "I",
+            "could",
+            "barely",
+            "eat",
+            "it",
+            "and",
+            "the",
+            "spice",
+            "took",
+            "away",
+            "from",
+            "the",
+            "flavor",
+            "of",
+            "the",
+            "dish"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "dish"
+        ],
+        "index": 29
+    },
+    {
+        "tokens": [
+            "The",
+            "last",
+            "two",
+            "times",
+            "I",
+            "ordered",
+            "from",
+            "here",
+            "my",
+            "food",
+            "was",
+            "soo",
+            "spicy",
+            "that",
+            "I",
+            "could",
+            "barely",
+            "eat",
+            "it",
+            "and",
+            "the",
+            "spice",
+            "took",
+            "away",
+            "from",
+            "the",
+            "flavor",
+            "of",
+            "the",
+            "dish"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "spice"
+        ],
+        "index": 21
+    },
+    {
+        "tokens": [
+            "The",
+            "fried",
+            "dumplings",
+            "are",
+            "GREAT"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "fried",
+            "dumplings"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "This",
+            "place",
+            "has",
+            "the",
+            "best",
+            "Chinese",
+            "style",
+            "BBQ",
+            "ribs",
+            "in",
+            "the",
+            "city"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "BBQ",
+            "ribs"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "Ive",
+            "been",
+            "here",
+            "so",
+            "many",
+            "times",
+            "the",
+            "waiters",
+            "know",
+            "my",
+            "name"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "waiters"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "decor",
+            "is",
+            "very",
+            "simple",
+            "but",
+            "comfortable"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "decor"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "We",
+            "figured",
+            "we",
+            "never",
+            "had",
+            "Argentinian",
+            "Pizza",
+            "before",
+            "so",
+            "we",
+            "grabbed",
+            "our",
+            "lunch",
+            "there",
+            "sharing",
+            "a",
+            "large",
+            "Pelligrino",
+            "a",
+            "pizza",
+            "of",
+            "two",
+            "of",
+            "their",
+            "specials",
+            "one",
+            "was",
+            "goat",
+            "cheese",
+            "the",
+            "other",
+            "blue",
+            "cheese",
+            "and",
+            "both",
+            "were",
+            "excellent"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Argentinian",
+            "Pizza"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "We",
+            "figured",
+            "we",
+            "never",
+            "had",
+            "Argentinian",
+            "Pizza",
+            "before",
+            "so",
+            "we",
+            "grabbed",
+            "our",
+            "lunch",
+            "there",
+            "sharing",
+            "a",
+            "large",
+            "Pelligrino",
+            "a",
+            "pizza",
+            "of",
+            "two",
+            "of",
+            "their",
+            "specials",
+            "one",
+            "was",
+            "goat",
+            "cheese",
+            "the",
+            "other",
+            "blue",
+            "cheese",
+            "and",
+            "both",
+            "were",
+            "excellent"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "lunch"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "We",
+            "figured",
+            "we",
+            "never",
+            "had",
+            "Argentinian",
+            "Pizza",
+            "before",
+            "so",
+            "we",
+            "grabbed",
+            "our",
+            "lunch",
+            "there",
+            "sharing",
+            "a",
+            "large",
+            "Pelligrino",
+            "a",
+            "pizza",
+            "of",
+            "two",
+            "of",
+            "their",
+            "specials",
+            "one",
+            "was",
+            "goat",
+            "cheese",
+            "the",
+            "other",
+            "blue",
+            "cheese",
+            "and",
+            "both",
+            "were",
+            "excellent"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Pelligrino"
+        ],
+        "index": 17
+    },
+    {
+        "tokens": [
+            "We",
+            "figured",
+            "we",
+            "never",
+            "had",
+            "Argentinian",
+            "Pizza",
+            "before",
+            "so",
+            "we",
+            "grabbed",
+            "our",
+            "lunch",
+            "there",
+            "sharing",
+            "a",
+            "large",
+            "Pelligrino",
+            "a",
+            "pizza",
+            "of",
+            "two",
+            "of",
+            "their",
+            "specials",
+            "one",
+            "was",
+            "goat",
+            "cheese",
+            "the",
+            "other",
+            "blue",
+            "cheese",
+            "and",
+            "both",
+            "were",
+            "excellent"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "pizza"
+        ],
+        "index": 19
+    },
+    {
+        "tokens": [
+            "We",
+            "figured",
+            "we",
+            "never",
+            "had",
+            "Argentinian",
+            "Pizza",
+            "before",
+            "so",
+            "we",
+            "grabbed",
+            "our",
+            "lunch",
+            "there",
+            "sharing",
+            "a",
+            "large",
+            "Pelligrino",
+            "a",
+            "pizza",
+            "of",
+            "two",
+            "of",
+            "their",
+            "specials",
+            "one",
+            "was",
+            "goat",
+            "cheese",
+            "the",
+            "other",
+            "blue",
+            "cheese",
+            "and",
+            "both",
+            "were",
+            "excellent"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "goat",
+            "cheese"
+        ],
+        "index": 27
+    },
+    {
+        "tokens": [
+            "We",
+            "figured",
+            "we",
+            "never",
+            "had",
+            "Argentinian",
+            "Pizza",
+            "before",
+            "so",
+            "we",
+            "grabbed",
+            "our",
+            "lunch",
+            "there",
+            "sharing",
+            "a",
+            "large",
+            "Pelligrino",
+            "a",
+            "pizza",
+            "of",
+            "two",
+            "of",
+            "their",
+            "specials",
+            "one",
+            "was",
+            "goat",
+            "cheese",
+            "the",
+            "other",
+            "blue",
+            "cheese",
+            "and",
+            "both",
+            "were",
+            "excellent"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "blue",
+            "cheese"
+        ],
+        "index": 31
+    },
+    {
+        "tokens": [
+            "The",
+            "kamasutra",
+            "and",
+            "bombay",
+            "cosmopolitan",
+            "are",
+            "excellent",
+            "and",
+            "will",
+            "have",
+            "you",
+            "tipsy",
+            "in",
+            "no",
+            "time"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "kamasutra"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "kamasutra",
+            "and",
+            "bombay",
+            "cosmopolitan",
+            "are",
+            "excellent",
+            "and",
+            "will",
+            "have",
+            "you",
+            "tipsy",
+            "in",
+            "no",
+            "time"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "bombay",
+            "cosmopolitan"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "This",
+            "is",
+            "the",
+            "perfect",
+            "date",
+            "spot",
+            "for",
+            "Williamsburg",
+            "couples"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "date",
+            "spot"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "The",
+            "dim",
+            "sum",
+            "here",
+            "is",
+            "only",
+            "so-so"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dim",
+            "sum"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "6",
+            "and",
+            "there",
+            "is",
+            "much",
+            "tasty",
+            "food",
+            "all",
+            "of",
+            "it",
+            "fresh",
+            "and",
+            "continually",
+            "refilled"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "Just",
+            "straight",
+            "up",
+            "cheap",
+            "good",
+            "food"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Seating",
+            "is",
+            "ok",
+            "even",
+            "though",
+            "sometimes",
+            "there's",
+            "alot",
+            "of",
+            "people"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "Seating"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Even",
+            "with",
+            "a",
+            "relatively",
+            "inexpensive",
+            "botle",
+            "of",
+            "wine",
+            "if",
+            "you",
+            "can",
+            "call",
+            "70.00",
+            "inexpensive",
+            "the",
+            "cost",
+            "is",
+            "through",
+            "the",
+            "roof",
+            "for",
+            "better",
+            "than",
+            "average",
+            "fare"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "cost"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "Even",
+            "with",
+            "a",
+            "relatively",
+            "inexpensive",
+            "botle",
+            "of",
+            "wine",
+            "if",
+            "you",
+            "can",
+            "call",
+            "70.00",
+            "inexpensive",
+            "the",
+            "cost",
+            "is",
+            "through",
+            "the",
+            "roof",
+            "for",
+            "better",
+            "than",
+            "average",
+            "fare"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "botle",
+            "of",
+            "wine"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "Service",
+            "was",
+            "slow",
+            "but",
+            "the",
+            "people",
+            "were",
+            "friendly"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "Service"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Service",
+            "was",
+            "slow",
+            "but",
+            "the",
+            "people",
+            "were",
+            "friendly"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "people"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "The",
+            "steak",
+            "was",
+            "very",
+            "fatty",
+            "and",
+            "the",
+            "sauce",
+            "was",
+            "overpowering",
+            "and",
+            "not",
+            "very",
+            "tasty"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "steak"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "steak",
+            "was",
+            "very",
+            "fatty",
+            "and",
+            "the",
+            "sauce",
+            "was",
+            "overpowering",
+            "and",
+            "not",
+            "very",
+            "tasty"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "sauce"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "makes",
+            "you",
+            "feel",
+            "at",
+            "home",
+            "the",
+            "food",
+            "is",
+            "great",
+            "and",
+            "the",
+            "atmosphere",
+            "is",
+            "WONDERFUL"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "staff"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "makes",
+            "you",
+            "feel",
+            "at",
+            "home",
+            "the",
+            "food",
+            "is",
+            "great",
+            "and",
+            "the",
+            "atmosphere",
+            "is",
+            "WONDERFUL"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "makes",
+            "you",
+            "feel",
+            "at",
+            "home",
+            "the",
+            "food",
+            "is",
+            "great",
+            "and",
+            "the",
+            "atmosphere",
+            "is",
+            "WONDERFUL"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "atmosphere"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "alright",
+            "some",
+            "stuff",
+            "is",
+            "good",
+            "some",
+            "is",
+            "not",
+            "like",
+            "the",
+            "steak",
+            "dish",
+            "which",
+            "tends",
+            "to",
+            "be",
+            "dry"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "food",
+            "is",
+            "alright",
+            "some",
+            "stuff",
+            "is",
+            "good",
+            "some",
+            "is",
+            "not",
+            "like",
+            "the",
+            "steak",
+            "dish",
+            "which",
+            "tends",
+            "to",
+            "be",
+            "dry"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "steak",
+            "dish"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "They",
+            "have",
+            "a",
+            "very",
+            "diverse",
+            "menu",
+            "so",
+            "its",
+            "something",
+            "for",
+            "everybody"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "menu"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "was",
+            "too",
+            "busy",
+            "ordering",
+            "sushi",
+            "for",
+            "dinner",
+            "and",
+            "then",
+            "laying",
+            "it",
+            "out",
+            "to",
+            "eat",
+            "on",
+            "the",
+            "bar",
+            "to",
+            "even",
+            "bring",
+            "me",
+            "my",
+            "check"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "staff"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "was",
+            "too",
+            "busy",
+            "ordering",
+            "sushi",
+            "for",
+            "dinner",
+            "and",
+            "then",
+            "laying",
+            "it",
+            "out",
+            "to",
+            "eat",
+            "on",
+            "the",
+            "bar",
+            "to",
+            "even",
+            "bring",
+            "me",
+            "my",
+            "check"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "sushi"
+        ],
+        "index": 6
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "was",
+            "too",
+            "busy",
+            "ordering",
+            "sushi",
+            "for",
+            "dinner",
+            "and",
+            "then",
+            "laying",
+            "it",
+            "out",
+            "to",
+            "eat",
+            "on",
+            "the",
+            "bar",
+            "to",
+            "even",
+            "bring",
+            "me",
+            "my",
+            "check"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "check"
+        ],
+        "index": 24
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "was",
+            "too",
+            "busy",
+            "ordering",
+            "sushi",
+            "for",
+            "dinner",
+            "and",
+            "then",
+            "laying",
+            "it",
+            "out",
+            "to",
+            "eat",
+            "on",
+            "the",
+            "bar",
+            "to",
+            "even",
+            "bring",
+            "me",
+            "my",
+            "check"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "dinner"
+        ],
+        "index": 8
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "was",
+            "too",
+            "busy",
+            "ordering",
+            "sushi",
+            "for",
+            "dinner",
+            "and",
+            "then",
+            "laying",
+            "it",
+            "out",
+            "to",
+            "eat",
+            "on",
+            "the",
+            "bar",
+            "to",
+            "even",
+            "bring",
+            "me",
+            "my",
+            "check"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "bar"
+        ],
+        "index": 18
+    },
+    {
+        "tokens": [
+            "As",
+            "a",
+            "long-time",
+            "patron",
+            "of",
+            "Mamoun's",
+            "I",
+            "always",
+            "figured",
+            "that",
+            "I",
+            "had",
+            "found",
+            "the",
+            "best",
+            "late",
+            "night",
+            "food",
+            "spot",
+            "in",
+            "the",
+            "city"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food",
+            "spot"
+        ],
+        "index": 17
+    },
+    {
+        "tokens": [
+            "The",
+            "bagel",
+            "was",
+            "huge"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "bagel"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Get",
+            "the",
+            "tuna",
+            "of",
+            "gari"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "tuna"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "I",
+            "like",
+            "the",
+            "somosas",
+            "chai",
+            "and",
+            "the",
+            "chole",
+            "but",
+            "the",
+            "dhosas",
+            "and",
+            "dhal",
+            "were",
+            "kinda",
+            "dissapointing"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "somosas"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "I",
+            "like",
+            "the",
+            "somosas",
+            "chai",
+            "and",
+            "the",
+            "chole",
+            "but",
+            "the",
+            "dhosas",
+            "and",
+            "dhal",
+            "were",
+            "kinda",
+            "dissapointing"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "chai"
+        ],
+        "index": 4
+    },
+    {
+        "tokens": [
+            "I",
+            "like",
+            "the",
+            "somosas",
+            "chai",
+            "and",
+            "the",
+            "chole",
+            "but",
+            "the",
+            "dhosas",
+            "and",
+            "dhal",
+            "were",
+            "kinda",
+            "dissapointing"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "chole"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "I",
+            "like",
+            "the",
+            "somosas",
+            "chai",
+            "and",
+            "the",
+            "chole",
+            "but",
+            "the",
+            "dhosas",
+            "and",
+            "dhal",
+            "were",
+            "kinda",
+            "dissapointing"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "dhosas"
+        ],
+        "index": 10
+    },
+    {
+        "tokens": [
+            "I",
+            "like",
+            "the",
+            "somosas",
+            "chai",
+            "and",
+            "the",
+            "chole",
+            "but",
+            "the",
+            "dhosas",
+            "and",
+            "dhal",
+            "were",
+            "kinda",
+            "dissapointing"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "dhal"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "Edible",
+            "but",
+            "really",
+            "a",
+            "ripoff",
+            "at",
+            "those",
+            "prices",
+            "given",
+            "whats",
+            "in",
+            "the",
+            "area"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "prices"
+        ],
+        "index": 7
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "has",
+            "been",
+            "nice",
+            "but",
+            "they",
+            "seemed",
+            "really",
+            "stressed",
+            "and",
+            "the",
+            "unisex",
+            "bathroom",
+            "needs",
+            "to",
+            "be",
+            "cleaned",
+            "more",
+            "often"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "staff"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "staff",
+            "has",
+            "been",
+            "nice",
+            "but",
+            "they",
+            "seemed",
+            "really",
+            "stressed",
+            "and",
+            "the",
+            "unisex",
+            "bathroom",
+            "needs",
+            "to",
+            "be",
+            "cleaned",
+            "more",
+            "often"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "bathroom"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "the",
+            "only",
+            "thing",
+            "good",
+            "about",
+            "this",
+            "restaurant"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Service",
+            "friendly",
+            "and",
+            "attentive"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "Service"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Service",
+            "was",
+            "very",
+            "prompt",
+            "but",
+            "slightly",
+            "rushed"
+        ],
+        "polarity": "conflict",
+        "aspect_term": [
+            "Service"
+        ],
+        "index": 0
+    },
+    {
+        "tokens": [
+            "Great",
+            "food",
+            "great",
+            "decor",
+            "great",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "Great",
+            "food",
+            "great",
+            "decor",
+            "great",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "decor"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Great",
+            "food",
+            "great",
+            "decor",
+            "great",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 5
+    },
+    {
+        "tokens": [
+            "And",
+            "atlhough",
+            "tables",
+            "opened",
+            "up",
+            "next",
+            "to",
+            "us",
+            "and",
+            "we",
+            "ASKED",
+            "for",
+            "a",
+            "slightly",
+            "larger",
+            "space",
+            "they",
+            "left",
+            "us",
+            "awkardly",
+            "seated"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "tables"
+        ],
+        "index": 2
+    },
+    {
+        "tokens": [
+            "And",
+            "atlhough",
+            "tables",
+            "opened",
+            "up",
+            "next",
+            "to",
+            "us",
+            "and",
+            "we",
+            "ASKED",
+            "for",
+            "a",
+            "slightly",
+            "larger",
+            "space",
+            "they",
+            "left",
+            "us",
+            "awkardly",
+            "seated"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "space"
+        ],
+        "index": 15
+    },
+    {
+        "tokens": [
+            "The",
+            "palak",
+            "paneer",
+            "was",
+            "standard",
+            "and",
+            "I",
+            "was",
+            "not",
+            "a",
+            "fan",
+            "of",
+            "the",
+            "malai",
+            "kofta"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "palak",
+            "paneer"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "palak",
+            "paneer",
+            "was",
+            "standard",
+            "and",
+            "I",
+            "was",
+            "not",
+            "a",
+            "fan",
+            "of",
+            "the",
+            "malai",
+            "kofta"
+        ],
+        "polarity": "neutral",
+        "aspect_term": [
+            "malai",
+            "kofta"
+        ],
+        "index": 13
+    },
+    {
+        "tokens": [
+            "I've",
+            "dined",
+            "at",
+            "Alain",
+            "Ducasse's",
+            "restaurant",
+            "in",
+            "Monte",
+            "Carlo",
+            "for",
+            "half",
+            "the",
+            "price",
+            "for",
+            "the",
+            "same",
+            "excellent",
+            "dining",
+            "experience"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "dining"
+        ],
+        "index": 17
+    },
+    {
+        "tokens": [
+            "I've",
+            "dined",
+            "at",
+            "Alain",
+            "Ducasse's",
+            "restaurant",
+            "in",
+            "Monte",
+            "Carlo",
+            "for",
+            "half",
+            "the",
+            "price",
+            "for",
+            "the",
+            "same",
+            "excellent",
+            "dining",
+            "experience"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "price"
+        ],
+        "index": 12
+    },
+    {
+        "tokens": [
+            "Yeah",
+            "sometimes",
+            "the",
+            "service",
+            "can",
+            "be",
+            "slow"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "There",
+            "was",
+            "no",
+            "ambiance"
+        ],
+        "polarity": "negative",
+        "aspect_term": [
+            "ambiance"
+        ],
+        "index": 3
+    },
+    {
+        "tokens": [
+            "Save",
+            "your",
+            "money",
+            "and",
+            "don't",
+            "waste",
+            "your",
+            "calories",
+            "go",
+            "to",
+            "Margharita's",
+            "on",
+            "Washington",
+            "Street",
+            "instead",
+            "they",
+            "have",
+            "amazing",
+            "food",
+            "and",
+            "the",
+            "BEST",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "food"
+        ],
+        "index": 18
+    },
+    {
+        "tokens": [
+            "Save",
+            "your",
+            "money",
+            "and",
+            "don't",
+            "waste",
+            "your",
+            "calories",
+            "go",
+            "to",
+            "Margharita's",
+            "on",
+            "Washington",
+            "Street",
+            "instead",
+            "they",
+            "have",
+            "amazing",
+            "food",
+            "and",
+            "the",
+            "BEST",
+            "service"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 22
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "attentive",
+            "without",
+            "being",
+            "overbearing",
+            "and",
+            "each",
+            "dish",
+            "we",
+            "tried",
+            "was",
+            "wonderful",
+            "from",
+            "the",
+            "spring",
+            "rolls",
+            "to",
+            "the",
+            "cod",
+            "with",
+            "pineapple",
+            "tempura"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "service"
+        ],
+        "index": 1
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "attentive",
+            "without",
+            "being",
+            "overbearing",
+            "and",
+            "each",
+            "dish",
+            "we",
+            "tried",
+            "was",
+            "wonderful",
+            "from",
+            "the",
+            "spring",
+            "rolls",
+            "to",
+            "the",
+            "cod",
+            "with",
+            "pineapple",
+            "tempura"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "dish"
+        ],
+        "index": 9
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "attentive",
+            "without",
+            "being",
+            "overbearing",
+            "and",
+            "each",
+            "dish",
+            "we",
+            "tried",
+            "was",
+            "wonderful",
+            "from",
+            "the",
+            "spring",
+            "rolls",
+            "to",
+            "the",
+            "cod",
+            "with",
+            "pineapple",
+            "tempura"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "spring",
+            "rolls"
+        ],
+        "index": 16
+    },
+    {
+        "tokens": [
+            "The",
+            "service",
+            "was",
+            "attentive",
+            "without",
+            "being",
+            "overbearing",
+            "and",
+            "each",
+            "dish",
+            "we",
+            "tried",
+            "was",
+            "wonderful",
+            "from",
+            "the",
+            "spring",
+            "rolls",
+            "to",
+            "the",
+            "cod",
+            "with",
+            "pineapple",
+            "tempura"
+        ],
+        "polarity": "positive",
+        "aspect_term": [
+            "cod",
+            "with",
+            "pineapple",
+            "tempura"
+        ],
+        "index": 20
+    }
+]
