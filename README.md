@@ -11,7 +11,7 @@ The course covers text processing, language modeling, word embeddings, sequence 
 - `/Quizzes`: Contains materials related to the quizzes.
 - `/Midsem`: Contains materials related to the midterm examination.
 - `/Endsem`: Contains materials related to the endterm examination.
-- `/Project`: Coming soon.
+- `/Project`: [Multimodal Classification for Mental Health Memes](https://github.com/shobhitraj1/Multimodal-Meme-Classification.git)
 
 📅 **Semester:**
 6th Semester (3rd Year)
